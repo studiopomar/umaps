@@ -8,7 +8,7 @@ O clima das capitais e dos lugares de encontro aparece no próprio mapa. Também
 
 ## Acesse
 
-O site está publicado em <https://misynth.github.io/umaps/>. Cada atualização enviada para `main` passa pelas verificações e segue para o GitHub Pages pelo Actions.
+O site está publicado em <https://studiopomar.github.io/umaps/>. Cada atualização enviada para `main` passa pelas verificações e segue para o GitHub Pages pelo Actions.
 
 ## Rode no seu computador
 
