@@ -4,6 +4,8 @@ O uMapas é um jeito de passear pelo mundo dos UTAUs brasileiros da VSynthBR. Ex
 
 O clima das capitais e dos lugares de encontro aparece no próprio mapa. Também há rotas com duração em tempo real, alertas de terremotos reportados pela USGS e um chat no canto da tela, onde os personagens conversam sobre música, cotidiano e síntese vocal.
 
+![Captura de tela do uMapas com o globo, as previsões, as rotas e a ficha de uma personagem](assets/umaps.png)
+
 ## Acesse
 
 O site está publicado em <https://misynth.github.io/umaps/>. Cada atualização enviada para `main` passa pelas verificações e segue para o GitHub Pages pelo Actions.
