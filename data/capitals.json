@@ -1,0 +1,70 @@
+[
+  {
+    "country": "Argentina",
+    "cityId": "buenos-aires"
+  },
+  {
+    "country": "Austrália",
+    "cityId": "geonames-2172517"
+  },
+  {
+    "country": "Brasil",
+    "cityId": "geonames-3469058"
+  },
+  {
+    "country": "Canadá",
+    "cityId": "geonames-6094817"
+  },
+  {
+    "country": "Chile",
+    "cityId": "geonames-3871336"
+  },
+  {
+    "country": "Alemanha",
+    "cityId": "berlim"
+  },
+  {
+    "country": "Espanha",
+    "cityId": "geonames-3117735"
+  },
+  {
+    "country": "França",
+    "cityId": "paris"
+  },
+  {
+    "country": "Reino Unido",
+    "cityId": "geonames-2643743"
+  },
+  {
+    "country": "Índia",
+    "cityId": "geonames-1273294"
+  },
+  {
+    "country": "Itália",
+    "cityId": "geonames-3169070"
+  },
+  {
+    "country": "Japão",
+    "cityId": "toquio"
+  },
+  {
+    "country": "Coreia do Sul",
+    "cityId": "seul"
+  },
+  {
+    "country": "México",
+    "cityId": "geonames-3530597"
+  },
+  {
+    "country": "Portugal",
+    "cityId": "lisboa"
+  },
+  {
+    "country": "EUA",
+    "cityId": "geonames-4140963"
+  },
+  {
+    "country": "África do Sul",
+    "cityId": "geonames-964137"
+  }
+]

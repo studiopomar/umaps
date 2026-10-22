@@ -1,0 +1,3 @@
+import {defineConfig} from '@playwright/test';
+const executablePath=process.env.PLAYWRIGHT_CHROMIUM_EXECUTABLE||(process.platform==='darwin'?'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome':undefined);
+export default defineConfig({testDir:'./tests/browser',workers:1,timeout:45000,use:{baseURL:'http://127.0.0.1:8767/',launchOptions:{...(executablePath?{executablePath}:{}),args:['--enable-webgl','--use-gl=angle','--use-angle=swiftshader','--enable-unsafe-swiftshader']}},webServer:{command:'python3 -m http.server 8767 --directory .',url:'http://127.0.0.1:8767/',reuseExistingServer:true}});

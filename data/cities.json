@@ -1,0 +1,1742 @@
+[
+  {
+    "id": "sao-paulo",
+    "name": "São Paulo",
+    "country": "Brasil",
+    "continent": "América do Sul",
+    "lat": -23.5505,
+    "lng": -46.6333,
+    "timezone": "America/Sao_Paulo"
+  },
+  {
+    "id": "rio-de-janeiro",
+    "name": "Rio de Janeiro",
+    "country": "Brasil",
+    "continent": "América do Sul",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "timezone": "America/Sao_Paulo"
+  },
+  {
+    "id": "belo-horizonte",
+    "name": "Belo Horizonte",
+    "country": "Brasil",
+    "continent": "América do Sul",
+    "lat": -19.9167,
+    "lng": -43.9345,
+    "timezone": "America/Sao_Paulo"
+  },
+  {
+    "id": "porto-alegre",
+    "name": "Porto Alegre",
+    "country": "Brasil",
+    "continent": "América do Sul",
+    "lat": -30.0346,
+    "lng": -51.2177,
+    "timezone": "America/Sao_Paulo"
+  },
+  {
+    "id": "salvador",
+    "name": "Salvador",
+    "country": "Brasil",
+    "continent": "América do Sul",
+    "lat": -12.9777,
+    "lng": -38.5016,
+    "timezone": "America/Bahia"
+  },
+  {
+    "id": "recife",
+    "name": "Recife",
+    "country": "Brasil",
+    "continent": "América do Sul",
+    "lat": -8.0476,
+    "lng": -34.877,
+    "timezone": "America/Recife"
+  },
+  {
+    "id": "curitiba",
+    "name": "Curitiba",
+    "country": "Brasil",
+    "continent": "América do Sul",
+    "lat": -25.4284,
+    "lng": -49.2733,
+    "timezone": "America/Sao_Paulo"
+  },
+  {
+    "id": "manaus",
+    "name": "Manaus",
+    "country": "Brasil",
+    "continent": "América do Sul",
+    "lat": -3.119,
+    "lng": -60.0217,
+    "timezone": "America/Manaus"
+  },
+  {
+    "id": "fortaleza",
+    "name": "Fortaleza",
+    "country": "Brasil",
+    "continent": "América do Sul",
+    "lat": -3.7319,
+    "lng": -38.5267,
+    "timezone": "America/Fortaleza"
+  },
+  {
+    "id": "vila-bela-da-santissima-trindade",
+    "name": "Vila Bela da Santíssima Trindade",
+    "country": "Brasil",
+    "continent": "América do Sul",
+    "lat": -15.0033,
+    "lng": -59.9503,
+    "timezone": "America/Cuiaba"
+  },
+  {
+    "id": "lisboa",
+    "name": "Lisboa",
+    "country": "Portugal",
+    "continent": "Europa",
+    "lat": 38.7223,
+    "lng": -9.1393,
+    "timezone": "Europe/Lisbon"
+  },
+  {
+    "id": "buenos-aires",
+    "name": "Buenos Aires",
+    "country": "Argentina",
+    "continent": "América do Sul",
+    "lat": -34.6037,
+    "lng": -58.3816,
+    "timezone": "America/Argentina/Buenos_Aires"
+  },
+  {
+    "id": "toquio",
+    "name": "Tóquio",
+    "country": "Japão",
+    "continent": "Ásia",
+    "lat": 35.6895,
+    "lng": 139.6917,
+    "timezone": "Asia/Tokyo"
+  },
+  {
+    "id": "berlim",
+    "name": "Berlim",
+    "country": "Alemanha",
+    "continent": "Europa",
+    "lat": 52.52,
+    "lng": 13.405,
+    "timezone": "Europe/Berlin"
+  },
+  {
+    "id": "nova-york",
+    "name": "Nova York",
+    "country": "EUA",
+    "continent": "América do Norte",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "timezone": "America/New_York"
+  },
+  {
+    "id": "seul",
+    "name": "Seul",
+    "country": "Coreia do Sul",
+    "continent": "Ásia",
+    "lat": 37.5665,
+    "lng": 126.978,
+    "timezone": "Asia/Seoul"
+  },
+  {
+    "id": "paris",
+    "name": "Paris",
+    "country": "França",
+    "continent": "Europa",
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "timezone": "Europe/Paris"
+  },
+  {
+    "id": "cidade-do-cabo",
+    "name": "Cidade do Cabo",
+    "country": "África do Sul",
+    "continent": "África",
+    "lat": -33.9249,
+    "lng": 18.4241,
+    "timezone": "Africa/Johannesburg"
+  },
+  {
+    "id": "sydney",
+    "name": "Sydney",
+    "country": "Austrália",
+    "continent": "Oceania",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "timezone": "Australia/Sydney"
+  },
+  {
+    "id": "toronto",
+    "name": "Toronto",
+    "country": "Canadá",
+    "continent": "América do Norte",
+    "lat": 43.6532,
+    "lng": -79.3832,
+    "timezone": "America/Toronto"
+  },
+  {
+    "id": "geonames-3469058",
+    "name": "Brasília",
+    "country": "Brasil",
+    "continent": "América do Sul",
+    "lat": -15.77972,
+    "lng": -47.92972,
+    "timezone": "America/Sao_Paulo",
+    "geonameId": 3469058
+  },
+  {
+    "id": "geonames-3462377",
+    "name": "Goiânia",
+    "country": "Brasil",
+    "continent": "América do Sul",
+    "lat": -16.67861,
+    "lng": -49.25389,
+    "timezone": "America/Sao_Paulo",
+    "geonameId": 3462377
+  },
+  {
+    "id": "geonames-3405870",
+    "name": "Belém",
+    "country": "Brasil",
+    "continent": "América do Sul",
+    "lat": -1.45583,
+    "lng": -48.50444,
+    "timezone": "America/Belem",
+    "geonameId": 3405870
+  },
+  {
+    "id": "geonames-3395981",
+    "name": "Maceió",
+    "country": "Brasil",
+    "continent": "América do Sul",
+    "lat": -9.66583,
+    "lng": -35.73528,
+    "timezone": "America/Maceio",
+    "geonameId": 3395981
+  },
+  {
+    "id": "geonames-3388368",
+    "name": "São Luís",
+    "country": "Brasil",
+    "continent": "América do Sul",
+    "lat": -2.52972,
+    "lng": -44.30278,
+    "timezone": "America/Fortaleza",
+    "geonameId": 3388368
+  },
+  {
+    "id": "geonames-3467747",
+    "name": "Campo Grande",
+    "country": "Brasil",
+    "continent": "América do Sul",
+    "lat": -20.44278,
+    "lng": -54.64639,
+    "timezone": "America/Campo_Grande",
+    "geonameId": 3467747
+  },
+  {
+    "id": "geonames-3394023",
+    "name": "Natal",
+    "country": "Brasil",
+    "continent": "América do Sul",
+    "lat": -5.795,
+    "lng": -35.20944,
+    "timezone": "America/Fortaleza",
+    "geonameId": 3394023
+  },
+  {
+    "id": "geonames-3386496",
+    "name": "Teresina",
+    "country": "Brasil",
+    "continent": "América do Sul",
+    "lat": -5.08917,
+    "lng": -42.80194,
+    "timezone": "America/Fortaleza",
+    "geonameId": 3386496
+  },
+  {
+    "id": "geonames-3456160",
+    "name": "Nova Iguaçu",
+    "country": "Brasil",
+    "continent": "América do Sul",
+    "lat": -22.75917,
+    "lng": -43.45111,
+    "timezone": "America/Sao_Paulo",
+    "geonameId": 3456160
+  },
+  {
+    "id": "geonames-3397277",
+    "name": "João Pessoa",
+    "country": "Brasil",
+    "continent": "América do Sul",
+    "lat": -7.115,
+    "lng": -34.86306,
+    "timezone": "America/Fortaleza",
+    "geonameId": 3397277
+  },
+  {
+    "id": "geonames-3447399",
+    "name": "Sorocaba",
+    "country": "Brasil",
+    "continent": "América do Sul",
+    "lat": -23.50167,
+    "lng": -47.45806,
+    "timezone": "America/Sao_Paulo",
+    "geonameId": 3447399
+  },
+  {
+    "id": "geonames-3448636",
+    "name": "São José dos Campos",
+    "country": "Brasil",
+    "continent": "América do Sul",
+    "lat": -23.17944,
+    "lng": -45.88694,
+    "timezone": "America/Sao_Paulo",
+    "geonameId": 3448636
+  },
+  {
+    "id": "geonames-2735943",
+    "name": "Porto",
+    "country": "Portugal",
+    "continent": "Europa",
+    "lat": 41.1485,
+    "lng": -8.61097,
+    "timezone": "Europe/Lisbon",
+    "geonameId": 2735943
+  },
+  {
+    "id": "geonames-2742032",
+    "name": "Braga",
+    "country": "Portugal",
+    "continent": "Europa",
+    "lat": 41.5514,
+    "lng": -8.42311,
+    "timezone": "Europe/Lisbon",
+    "geonameId": 2742032
+  },
+  {
+    "id": "geonames-2740637",
+    "name": "Coimbra",
+    "country": "Portugal",
+    "continent": "Europa",
+    "lat": 40.20686,
+    "lng": -8.41996,
+    "timezone": "Europe/Lisbon",
+    "geonameId": 2740637
+  },
+  {
+    "id": "geonames-2267095",
+    "name": "Leiria",
+    "country": "Portugal",
+    "continent": "Europa",
+    "lat": 39.74362,
+    "lng": -8.80705,
+    "timezone": "Europe/Lisbon",
+    "geonameId": 2267095
+  },
+  {
+    "id": "geonames-2262963",
+    "name": "Setúbal",
+    "country": "Portugal",
+    "continent": "Europa",
+    "lat": 38.5244,
+    "lng": -8.8882,
+    "timezone": "Europe/Lisbon",
+    "geonameId": 2262963
+  },
+  {
+    "id": "geonames-2267827",
+    "name": "Funchal",
+    "country": "Portugal",
+    "continent": "Europa",
+    "lat": 32.66568,
+    "lng": -16.92547,
+    "timezone": "Atlantic/Madeira",
+    "geonameId": 2267827
+  },
+  {
+    "id": "geonames-2732265",
+    "name": "Viseu",
+    "country": "Portugal",
+    "continent": "Europa",
+    "lat": 40.66165,
+    "lng": -7.90905,
+    "timezone": "Europe/Lisbon",
+    "geonameId": 2732265
+  },
+  {
+    "id": "geonames-2742611",
+    "name": "Aveiro",
+    "country": "Portugal",
+    "continent": "Europa",
+    "lat": 40.64575,
+    "lng": -8.64643,
+    "timezone": "Europe/Lisbon",
+    "geonameId": 2742611
+  },
+  {
+    "id": "geonames-3860259",
+    "name": "Córdoba",
+    "country": "Argentina",
+    "continent": "América do Sul",
+    "lat": -31.40648,
+    "lng": -64.18853,
+    "timezone": "America/Argentina/Cordoba",
+    "geonameId": 3860259
+  },
+  {
+    "id": "geonames-3838583",
+    "name": "Rosario",
+    "country": "Argentina",
+    "continent": "América do Sul",
+    "lat": -32.94682,
+    "lng": -60.63932,
+    "timezone": "America/Argentina/Cordoba",
+    "geonameId": 3838583
+  },
+  {
+    "id": "geonames-3430863",
+    "name": "Mar del Plata",
+    "country": "Argentina",
+    "continent": "América do Sul",
+    "lat": -38.00042,
+    "lng": -57.5562,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "geonameId": 3430863
+  },
+  {
+    "id": "geonames-3836873",
+    "name": "San Miguel de Tucumán",
+    "country": "Argentina",
+    "continent": "América do Sul",
+    "lat": -26.81601,
+    "lng": -65.21051,
+    "timezone": "America/Argentina/Tucuman",
+    "geonameId": 3836873
+  },
+  {
+    "id": "geonames-3838233",
+    "name": "Salta",
+    "country": "Argentina",
+    "continent": "América do Sul",
+    "lat": -24.80645,
+    "lng": -65.41999,
+    "timezone": "America/Argentina/Salta",
+    "geonameId": 3838233
+  },
+  {
+    "id": "geonames-3836277",
+    "name": "Santa Fe",
+    "country": "Argentina",
+    "continent": "América do Sul",
+    "lat": -31.64881,
+    "lng": -60.70868,
+    "timezone": "America/Argentina/Cordoba",
+    "geonameId": 3836277
+  },
+  {
+    "id": "geonames-3435217",
+    "name": "Corrientes",
+    "country": "Argentina",
+    "continent": "América do Sul",
+    "lat": -27.46784,
+    "lng": -58.8344,
+    "timezone": "America/Argentina/Cordoba",
+    "geonameId": 3435217
+  },
+  {
+    "id": "geonames-3429886",
+    "name": "Posadas",
+    "country": "Argentina",
+    "continent": "América do Sul",
+    "lat": -27.39184,
+    "lng": -55.92379,
+    "timezone": "America/Argentina/Cordoba",
+    "geonameId": 3429886
+  },
+  {
+    "id": "geonames-3865086",
+    "name": "Bahía Blanca",
+    "country": "Argentina",
+    "continent": "América do Sul",
+    "lat": -38.7176,
+    "lng": -62.26545,
+    "timezone": "America/Argentina/Buenos_Aires",
+    "geonameId": 3865086
+  },
+  {
+    "id": "geonames-1848354",
+    "name": "Yokohama",
+    "country": "Japão",
+    "continent": "Ásia",
+    "lat": 35.43333,
+    "lng": 139.65,
+    "timezone": "Asia/Tokyo",
+    "geonameId": 1848354
+  },
+  {
+    "id": "geonames-1853909",
+    "name": "Osaka",
+    "country": "Japão",
+    "continent": "Ásia",
+    "lat": 34.69379,
+    "lng": 135.50107,
+    "timezone": "Asia/Tokyo",
+    "geonameId": 1853909
+  },
+  {
+    "id": "geonames-1856057",
+    "name": "Nagoya",
+    "country": "Japão",
+    "continent": "Ásia",
+    "lat": 35.18147,
+    "lng": 136.90641,
+    "timezone": "Asia/Tokyo",
+    "geonameId": 1856057
+  },
+  {
+    "id": "geonames-2128295",
+    "name": "Sapporo",
+    "country": "Japão",
+    "continent": "Ásia",
+    "lat": 43.06667,
+    "lng": 141.35,
+    "timezone": "Asia/Tokyo",
+    "geonameId": 2128295
+  },
+  {
+    "id": "geonames-1863967",
+    "name": "Fukuoka",
+    "country": "Japão",
+    "continent": "Ásia",
+    "lat": 33.6,
+    "lng": 130.41667,
+    "timezone": "Asia/Tokyo",
+    "geonameId": 1863967
+  },
+  {
+    "id": "geonames-1859171",
+    "name": "Kobe",
+    "country": "Japão",
+    "continent": "Ásia",
+    "lat": 34.6913,
+    "lng": 135.183,
+    "timezone": "Asia/Tokyo",
+    "geonameId": 1859171
+  },
+  {
+    "id": "geonames-1857910",
+    "name": "Kyoto",
+    "country": "Japão",
+    "continent": "Ásia",
+    "lat": 35.02107,
+    "lng": 135.75385,
+    "timezone": "Asia/Tokyo",
+    "geonameId": 1857910
+  },
+  {
+    "id": "geonames-6940394",
+    "name": "Saitama",
+    "country": "Japão",
+    "continent": "Ásia",
+    "lat": 35.90807,
+    "lng": 139.65657,
+    "timezone": "Asia/Tokyo",
+    "geonameId": 6940394
+  },
+  {
+    "id": "geonames-1862415",
+    "name": "Hiroshima",
+    "country": "Japão",
+    "continent": "Ásia",
+    "lat": 34.4,
+    "lng": 132.45,
+    "timezone": "Asia/Tokyo",
+    "geonameId": 1862415
+  },
+  {
+    "id": "geonames-2911298",
+    "name": "Hamburg",
+    "country": "Alemanha",
+    "continent": "Europa",
+    "lat": 53.55073,
+    "lng": 9.99302,
+    "timezone": "Europe/Berlin",
+    "geonameId": 2911298
+  },
+  {
+    "id": "geonames-2867714",
+    "name": "Munique",
+    "country": "Alemanha",
+    "continent": "Europa",
+    "lat": 48.13743,
+    "lng": 11.57549,
+    "timezone": "Europe/Berlin",
+    "geonameId": 2867714
+  },
+  {
+    "id": "geonames-2886242",
+    "name": "Colônia",
+    "country": "Alemanha",
+    "continent": "Europa",
+    "lat": 50.93333,
+    "lng": 6.95,
+    "timezone": "Europe/Berlin",
+    "geonameId": 2886242
+  },
+  {
+    "id": "geonames-2934246",
+    "name": "Düsseldorf",
+    "country": "Alemanha",
+    "continent": "Europa",
+    "lat": 51.22319,
+    "lng": 6.77927,
+    "timezone": "Europe/Berlin",
+    "geonameId": 2934246
+  },
+  {
+    "id": "geonames-2825297",
+    "name": "Stuttgart",
+    "country": "Alemanha",
+    "continent": "Europa",
+    "lat": 48.78232,
+    "lng": 9.17702,
+    "timezone": "Europe/Berlin",
+    "geonameId": 2825297
+  },
+  {
+    "id": "geonames-2935022",
+    "name": "Dresden",
+    "country": "Alemanha",
+    "continent": "Europa",
+    "lat": 51.05089,
+    "lng": 13.73832,
+    "timezone": "Europe/Berlin",
+    "geonameId": 2935022
+  },
+  {
+    "id": "geonames-2944388",
+    "name": "Bremen",
+    "country": "Alemanha",
+    "continent": "Europa",
+    "lat": 53.07582,
+    "lng": 8.80717,
+    "timezone": "Europe/Berlin",
+    "geonameId": 2944388
+  },
+  {
+    "id": "geonames-2910831",
+    "name": "Hannover",
+    "country": "Alemanha",
+    "continent": "Europa",
+    "lat": 52.37052,
+    "lng": 9.73322,
+    "timezone": "Europe/Berlin",
+    "geonameId": 2910831
+  },
+  {
+    "id": "geonames-2867543",
+    "name": "Münster",
+    "country": "Alemanha",
+    "continent": "Europa",
+    "lat": 51.96236,
+    "lng": 7.62571,
+    "timezone": "Europe/Berlin",
+    "geonameId": 2867543
+  },
+  {
+    "id": "geonames-5368361",
+    "name": "Los Angeles",
+    "country": "EUA",
+    "continent": "América do Norte",
+    "lat": 34.05223,
+    "lng": -118.24368,
+    "timezone": "America/Los_Angeles",
+    "geonameId": 5368361
+  },
+  {
+    "id": "geonames-4887398",
+    "name": "Chicago",
+    "country": "EUA",
+    "continent": "América do Norte",
+    "lat": 41.85003,
+    "lng": -87.65005,
+    "timezone": "America/Chicago",
+    "geonameId": 4887398
+  },
+  {
+    "id": "geonames-4699066",
+    "name": "Houston",
+    "country": "EUA",
+    "continent": "América do Norte",
+    "lat": 29.76328,
+    "lng": -95.36327,
+    "timezone": "America/Chicago",
+    "geonameId": 4699066
+  },
+  {
+    "id": "geonames-5308655",
+    "name": "Phoenix",
+    "country": "EUA",
+    "continent": "América do Norte",
+    "lat": 33.44838,
+    "lng": -112.07404,
+    "timezone": "America/Phoenix",
+    "geonameId": 5308655
+  },
+  {
+    "id": "geonames-4560349",
+    "name": "Philadelphia",
+    "country": "EUA",
+    "continent": "América do Norte",
+    "lat": 39.95238,
+    "lng": -75.16362,
+    "timezone": "America/New_York",
+    "geonameId": 4560349
+  },
+  {
+    "id": "geonames-4726206",
+    "name": "San Antonio",
+    "country": "EUA",
+    "continent": "América do Norte",
+    "lat": 29.42412,
+    "lng": -98.49363,
+    "timezone": "America/Chicago",
+    "geonameId": 4726206
+  },
+  {
+    "id": "geonames-5391811",
+    "name": "San Diego",
+    "country": "EUA",
+    "continent": "América do Norte",
+    "lat": 32.71571,
+    "lng": -117.16472,
+    "timezone": "America/Los_Angeles",
+    "geonameId": 5391811
+  },
+  {
+    "id": "geonames-4684888",
+    "name": "Dallas",
+    "country": "EUA",
+    "continent": "América do Norte",
+    "lat": 32.78306,
+    "lng": -96.80667,
+    "timezone": "America/Chicago",
+    "geonameId": 4684888
+  },
+  {
+    "id": "geonames-4160021",
+    "name": "Jacksonville",
+    "country": "EUA",
+    "continent": "América do Norte",
+    "lat": 30.33218,
+    "lng": -81.65565,
+    "timezone": "America/New_York",
+    "geonameId": 4160021
+  },
+  {
+    "id": "geonames-1838524",
+    "name": "Busan",
+    "country": "Coreia do Sul",
+    "continent": "Ásia",
+    "lat": 35.10168,
+    "lng": 129.03004,
+    "timezone": "Asia/Seoul",
+    "geonameId": 1838524
+  },
+  {
+    "id": "geonames-1843564",
+    "name": "Incheon",
+    "country": "Coreia do Sul",
+    "continent": "Ásia",
+    "lat": 37.45646,
+    "lng": 126.70515,
+    "timezone": "Asia/Seoul",
+    "geonameId": 1843564
+  },
+  {
+    "id": "geonames-1835329",
+    "name": "Daegu",
+    "country": "Coreia do Sul",
+    "continent": "Ásia",
+    "lat": 35.87028,
+    "lng": 128.59111,
+    "timezone": "Asia/Seoul",
+    "geonameId": 1835329
+  },
+  {
+    "id": "geonames-1835235",
+    "name": "Daejeon",
+    "country": "Coreia do Sul",
+    "continent": "Ásia",
+    "lat": 36.34913,
+    "lng": 127.38493,
+    "timezone": "Asia/Seoul",
+    "geonameId": 1835235
+  },
+  {
+    "id": "geonames-1841811",
+    "name": "Gwangju",
+    "country": "Coreia do Sul",
+    "continent": "Ásia",
+    "lat": 35.15472,
+    "lng": 126.91556,
+    "timezone": "Asia/Seoul",
+    "geonameId": 1841811
+  },
+  {
+    "id": "geonames-1835553",
+    "name": "Suwon",
+    "country": "Coreia do Sul",
+    "continent": "Ásia",
+    "lat": 37.29111,
+    "lng": 127.00889,
+    "timezone": "Asia/Seoul",
+    "geonameId": 1835553
+  },
+  {
+    "id": "geonames-1833747",
+    "name": "Ulsan",
+    "country": "Coreia do Sul",
+    "continent": "Ásia",
+    "lat": 35.53722,
+    "lng": 129.31667,
+    "timezone": "Asia/Seoul",
+    "geonameId": 1833747
+  },
+  {
+    "id": "geonames-1846326",
+    "name": "Changwon",
+    "country": "Coreia do Sul",
+    "continent": "Ásia",
+    "lat": 35.22806,
+    "lng": 128.68111,
+    "timezone": "Asia/Seoul",
+    "geonameId": 1846326
+  },
+  {
+    "id": "geonames-1845604",
+    "name": "Cheongju-si",
+    "country": "Coreia do Sul",
+    "continent": "Ásia",
+    "lat": 36.63722,
+    "lng": 127.48972,
+    "timezone": "Asia/Seoul",
+    "geonameId": 1845604
+  },
+  {
+    "id": "geonames-2995469",
+    "name": "Marselha",
+    "country": "França",
+    "continent": "Europa",
+    "lat": 43.29695,
+    "lng": 5.38107,
+    "timezone": "Europe/Paris",
+    "geonameId": 2995469
+  },
+  {
+    "id": "geonames-2996944",
+    "name": "Lyon",
+    "country": "França",
+    "continent": "Europa",
+    "lat": 45.74906,
+    "lng": 4.84789,
+    "timezone": "Europe/Paris",
+    "geonameId": 2996944
+  },
+  {
+    "id": "geonames-2972315",
+    "name": "Toulouse",
+    "country": "França",
+    "continent": "Europa",
+    "lat": 43.60426,
+    "lng": 1.44367,
+    "timezone": "Europe/Paris",
+    "geonameId": 2972315
+  },
+  {
+    "id": "geonames-2990440",
+    "name": "Nice",
+    "country": "França",
+    "continent": "Europa",
+    "lat": 43.70313,
+    "lng": 7.26608,
+    "timezone": "Europe/Paris",
+    "geonameId": 2990440
+  },
+  {
+    "id": "geonames-2990969",
+    "name": "Nantes",
+    "country": "França",
+    "continent": "Europa",
+    "lat": 47.21725,
+    "lng": -1.55336,
+    "timezone": "Europe/Paris",
+    "geonameId": 2990969
+  },
+  {
+    "id": "geonames-2973783",
+    "name": "Strasbourg",
+    "country": "França",
+    "continent": "Europa",
+    "lat": 48.58392,
+    "lng": 7.74553,
+    "timezone": "Europe/Paris",
+    "geonameId": 2973783
+  },
+  {
+    "id": "geonames-3031582",
+    "name": "Bordeaux",
+    "country": "França",
+    "continent": "Europa",
+    "lat": 44.84124,
+    "lng": -0.58046,
+    "timezone": "Europe/Paris",
+    "geonameId": 3031582
+  },
+  {
+    "id": "geonames-2992166",
+    "name": "Montpellier",
+    "country": "França",
+    "continent": "Europa",
+    "lat": 43.61093,
+    "lng": 3.87635,
+    "timezone": "Europe/Paris",
+    "geonameId": 2992166
+  },
+  {
+    "id": "geonames-2998324",
+    "name": "Lille",
+    "country": "França",
+    "continent": "Europa",
+    "lat": 50.63391,
+    "lng": 3.05512,
+    "timezone": "Europe/Paris",
+    "geonameId": 2998324
+  },
+  {
+    "id": "geonames-993800",
+    "name": "Joanesburgo",
+    "country": "África do Sul",
+    "continent": "África",
+    "lat": -26.20227,
+    "lng": 28.04363,
+    "timezone": "Africa/Johannesburg",
+    "geonameId": 993800
+  },
+  {
+    "id": "geonames-1007311",
+    "name": "Durban",
+    "country": "África do Sul",
+    "continent": "África",
+    "lat": -29.8579,
+    "lng": 31.0292,
+    "timezone": "Africa/Johannesburg",
+    "geonameId": 1007311
+  },
+  {
+    "id": "geonames-964137",
+    "name": "Pretória",
+    "country": "África do Sul",
+    "continent": "África",
+    "lat": -25.74486,
+    "lng": 28.18783,
+    "timezone": "Africa/Johannesburg",
+    "geonameId": 964137
+  },
+  {
+    "id": "geonames-964420",
+    "name": "Gqeberha",
+    "country": "África do Sul",
+    "continent": "África",
+    "lat": -33.96109,
+    "lng": 25.61494,
+    "timezone": "Africa/Johannesburg",
+    "geonameId": 964420
+  },
+  {
+    "id": "geonames-965301",
+    "name": "Pietermaritzburg",
+    "country": "África do Sul",
+    "continent": "África",
+    "lat": -29.61679,
+    "lng": 30.39278,
+    "timezone": "Africa/Johannesburg",
+    "geonameId": 965301
+  },
+  {
+    "id": "geonames-1018725",
+    "name": "Bloemfontein",
+    "country": "África do Sul",
+    "continent": "África",
+    "lat": -29.12107,
+    "lng": 26.214,
+    "timezone": "Africa/Johannesburg",
+    "geonameId": 1018725
+  },
+  {
+    "id": "geonames-1006984",
+    "name": "East London",
+    "country": "África do Sul",
+    "continent": "África",
+    "lat": -33.01529,
+    "lng": 27.91162,
+    "timezone": "Africa/Johannesburg",
+    "geonameId": 1006984
+  },
+  {
+    "id": "geonames-944385",
+    "name": "Vereeniging",
+    "country": "África do Sul",
+    "continent": "África",
+    "lat": -26.67313,
+    "lng": 27.92615,
+    "timezone": "Africa/Johannesburg",
+    "geonameId": 944385
+  },
+  {
+    "id": "geonames-940909",
+    "name": "Welkom",
+    "country": "África do Sul",
+    "continent": "África",
+    "lat": -27.97742,
+    "lng": 26.73506,
+    "timezone": "Africa/Johannesburg",
+    "geonameId": 940909
+  },
+  {
+    "id": "geonames-2158177",
+    "name": "Melbourne",
+    "country": "Austrália",
+    "continent": "Oceania",
+    "lat": -37.814,
+    "lng": 144.96332,
+    "timezone": "Australia/Melbourne",
+    "geonameId": 2158177
+  },
+  {
+    "id": "geonames-2174003",
+    "name": "Brisbane",
+    "country": "Austrália",
+    "continent": "Oceania",
+    "lat": -27.46794,
+    "lng": 153.02809,
+    "timezone": "Australia/Brisbane",
+    "geonameId": 2174003
+  },
+  {
+    "id": "geonames-2063523",
+    "name": "Perth",
+    "country": "Austrália",
+    "continent": "Oceania",
+    "lat": -31.95224,
+    "lng": 115.8614,
+    "timezone": "Australia/Perth",
+    "geonameId": 2063523
+  },
+  {
+    "id": "geonames-2078025",
+    "name": "Adelaide",
+    "country": "Austrália",
+    "continent": "Oceania",
+    "lat": -34.92866,
+    "lng": 138.59863,
+    "timezone": "Australia/Adelaide",
+    "geonameId": 2078025
+  },
+  {
+    "id": "geonames-2155472",
+    "name": "Newcastle",
+    "country": "Austrália",
+    "continent": "Oceania",
+    "lat": -32.92953,
+    "lng": 151.7801,
+    "timezone": "Australia/Sydney",
+    "geonameId": 2155472
+  },
+  {
+    "id": "geonames-10630449",
+    "name": "Sunshine Coast",
+    "country": "Austrália",
+    "continent": "Oceania",
+    "lat": -26.65682,
+    "lng": 153.07955,
+    "timezone": "Australia/Brisbane",
+    "geonameId": 10630449
+  },
+  {
+    "id": "geonames-2172517",
+    "name": "Canberra",
+    "country": "Austrália",
+    "continent": "Oceania",
+    "lat": -35.28346,
+    "lng": 149.12807,
+    "timezone": "Australia/Sydney",
+    "geonameId": 2172517
+  },
+  {
+    "id": "geonames-2171507",
+    "name": "Wollongong",
+    "country": "Austrália",
+    "continent": "Oceania",
+    "lat": -34.424,
+    "lng": 150.89345,
+    "timezone": "Australia/Sydney",
+    "geonameId": 2171507
+  },
+  {
+    "id": "geonames-2163355",
+    "name": "Hobart",
+    "country": "Austrália",
+    "continent": "Oceania",
+    "lat": -42.87936,
+    "lng": 147.32941,
+    "timezone": "Australia/Hobart",
+    "geonameId": 2163355
+  },
+  {
+    "id": "geonames-6077243",
+    "name": "Montréal",
+    "country": "Canadá",
+    "continent": "América do Norte",
+    "lat": 45.50884,
+    "lng": -73.58781,
+    "timezone": "America/Toronto",
+    "geonameId": 6077243
+  },
+  {
+    "id": "geonames-6094817",
+    "name": "Ottawa",
+    "country": "Canadá",
+    "continent": "América do Norte",
+    "lat": 45.41117,
+    "lng": -75.69812,
+    "timezone": "America/Toronto",
+    "geonameId": 6094817
+  },
+  {
+    "id": "geonames-5946768",
+    "name": "Edmonton",
+    "country": "Canadá",
+    "continent": "América do Norte",
+    "lat": 53.55014,
+    "lng": -113.46871,
+    "timezone": "America/Edmonton",
+    "geonameId": 5946768
+  },
+  {
+    "id": "geonames-6183235",
+    "name": "Winnipeg",
+    "country": "Canadá",
+    "continent": "América do Norte",
+    "lat": 49.8844,
+    "lng": -97.14704,
+    "timezone": "America/Winnipeg",
+    "geonameId": 6183235
+  },
+  {
+    "id": "geonames-6325494",
+    "name": "Québec",
+    "country": "Canadá",
+    "continent": "América do Norte",
+    "lat": 46.81228,
+    "lng": -71.21454,
+    "timezone": "America/Toronto",
+    "geonameId": 6325494
+  },
+  {
+    "id": "geonames-6324729",
+    "name": "Halifax",
+    "country": "Canadá",
+    "continent": "América do Norte",
+    "lat": 44.64269,
+    "lng": -63.57688,
+    "timezone": "America/Halifax",
+    "geonameId": 6324729
+  },
+  {
+    "id": "geonames-6174041",
+    "name": "Victoria",
+    "country": "Canadá",
+    "continent": "América do Norte",
+    "lat": 48.4359,
+    "lng": -123.35155,
+    "timezone": "America/Vancouver",
+    "geonameId": 6174041
+  },
+  {
+    "id": "geonames-5992996",
+    "name": "Kitchener",
+    "country": "Canadá",
+    "continent": "América do Norte",
+    "lat": 43.42537,
+    "lng": -80.5112,
+    "timezone": "America/Toronto",
+    "geonameId": 5992996
+  },
+  {
+    "id": "geonames-6119109",
+    "name": "Regina",
+    "country": "Canadá",
+    "continent": "América do Norte",
+    "lat": 50.45008,
+    "lng": -104.6178,
+    "timezone": "America/Regina",
+    "geonameId": 6119109
+  },
+  {
+    "id": "geonames-3530597",
+    "name": "Cidade do México",
+    "country": "México",
+    "continent": "América do Norte",
+    "lat": 19.42847,
+    "lng": -99.12766,
+    "timezone": "America/Mexico_City",
+    "geonameId": 3530597
+  },
+  {
+    "id": "geonames-3981609",
+    "name": "Tijuana",
+    "country": "México",
+    "continent": "América do Norte",
+    "lat": 32.5027,
+    "lng": -117.00371,
+    "timezone": "America/Tijuana",
+    "geonameId": 3981609
+  },
+  {
+    "id": "geonames-3521081",
+    "name": "Puebla",
+    "country": "México",
+    "continent": "América do Norte",
+    "lat": 19.04778,
+    "lng": -98.20723,
+    "timezone": "America/Mexico_City",
+    "geonameId": 3521081
+  },
+  {
+    "id": "geonames-3991164",
+    "name": "Querétaro",
+    "country": "México",
+    "continent": "América do Norte",
+    "lat": 20.58806,
+    "lng": -100.38806,
+    "timezone": "America/Mexico_City",
+    "geonameId": 3991164
+  },
+  {
+    "id": "geonames-3998655",
+    "name": "León de los Aldama",
+    "country": "México",
+    "continent": "América do Norte",
+    "lat": 21.12183,
+    "lng": -101.68253,
+    "timezone": "America/Mexico_City",
+    "geonameId": 3998655
+  },
+  {
+    "id": "geonames-4013708",
+    "name": "Ciudad Juárez",
+    "country": "México",
+    "continent": "América do Norte",
+    "lat": 31.72024,
+    "lng": -106.46084,
+    "timezone": "America/Ciudad_Juarez",
+    "geonameId": 4013708
+  },
+  {
+    "id": "geonames-3979770",
+    "name": "Zapopan",
+    "country": "México",
+    "continent": "América do Norte",
+    "lat": 20.72111,
+    "lng": -103.38742,
+    "timezone": "America/Mexico_City",
+    "geonameId": 3979770
+  },
+  {
+    "id": "geonames-3523349",
+    "name": "Mérida",
+    "country": "México",
+    "continent": "América do Norte",
+    "lat": 20.967,
+    "lng": -89.62318,
+    "timezone": "America/Merida",
+    "geonameId": 3523349
+  },
+  {
+    "id": "geonames-3995465",
+    "name": "Monterrey",
+    "country": "México",
+    "continent": "América do Norte",
+    "lat": 25.68435,
+    "lng": -100.31721,
+    "timezone": "America/Monterrey",
+    "geonameId": 3995465
+  },
+  {
+    "id": "geonames-3871336",
+    "name": "Santiago",
+    "country": "Chile",
+    "continent": "América do Sul",
+    "lat": -33.45694,
+    "lng": -70.64827,
+    "timezone": "America/Santiago",
+    "geonameId": 3871336
+  },
+  {
+    "id": "geonames-3899539",
+    "name": "Antofagasta",
+    "country": "Chile",
+    "continent": "América do Sul",
+    "lat": -23.65094,
+    "lng": -70.39752,
+    "timezone": "America/Santiago",
+    "geonameId": 3899539
+  },
+  {
+    "id": "geonames-3868626",
+    "name": "Valparaíso",
+    "country": "Chile",
+    "continent": "América do Sul",
+    "lat": -33.036,
+    "lng": -71.62963,
+    "timezone": "America/Santiago",
+    "geonameId": 3868626
+  },
+  {
+    "id": "geonames-3874960",
+    "name": "Puerto Montt",
+    "country": "Chile",
+    "continent": "América do Sul",
+    "lat": -41.4693,
+    "lng": -72.94237,
+    "timezone": "America/Santiago",
+    "geonameId": 3874960
+  },
+  {
+    "id": "geonames-3899361",
+    "name": "Arica",
+    "country": "Chile",
+    "continent": "América do Sul",
+    "lat": -18.47552,
+    "lng": -70.30058,
+    "timezone": "America/Santiago",
+    "geonameId": 3899361
+  },
+  {
+    "id": "geonames-3870011",
+    "name": "Temuco",
+    "country": "Chile",
+    "continent": "América do Sul",
+    "lat": -38.73628,
+    "lng": -72.59738,
+    "timezone": "America/Santiago",
+    "geonameId": 3870011
+  },
+  {
+    "id": "geonames-3893894",
+    "name": "Concepción",
+    "country": "Chile",
+    "continent": "América do Sul",
+    "lat": -36.82699,
+    "lng": -73.04977,
+    "timezone": "America/Santiago",
+    "geonameId": 3893894
+  },
+  {
+    "id": "geonames-3873775",
+    "name": "Rancagua",
+    "country": "Chile",
+    "continent": "América do Sul",
+    "lat": -34.1691,
+    "lng": -70.74053,
+    "timezone": "America/Santiago",
+    "geonameId": 3873775
+  },
+  {
+    "id": "geonames-3887127",
+    "name": "Iquique",
+    "country": "Chile",
+    "continent": "América do Sul",
+    "lat": -20.21326,
+    "lng": -70.15027,
+    "timezone": "America/Santiago",
+    "geonameId": 3887127
+  },
+  {
+    "id": "geonames-2643743",
+    "name": "Londres",
+    "country": "Reino Unido",
+    "continent": "Europa",
+    "lat": 51.50853,
+    "lng": -0.12574,
+    "timezone": "Europe/London",
+    "geonameId": 2643743
+  },
+  {
+    "id": "geonames-2655603",
+    "name": "Birmingham",
+    "country": "Reino Unido",
+    "continent": "Europa",
+    "lat": 52.48142,
+    "lng": -1.89983,
+    "timezone": "Europe/London",
+    "geonameId": 2655603
+  },
+  {
+    "id": "geonames-2648579",
+    "name": "Glasgow",
+    "country": "Reino Unido",
+    "continent": "Europa",
+    "lat": 55.86515,
+    "lng": -4.25763,
+    "timezone": "Europe/London",
+    "geonameId": 2648579
+  },
+  {
+    "id": "geonames-2643123",
+    "name": "Manchester",
+    "country": "Reino Unido",
+    "continent": "Europa",
+    "lat": 53.48095,
+    "lng": -2.23743,
+    "timezone": "Europe/London",
+    "geonameId": 2643123
+  },
+  {
+    "id": "geonames-2638077",
+    "name": "Sheffield",
+    "country": "Reino Unido",
+    "continent": "Europa",
+    "lat": 53.38297,
+    "lng": -1.4659,
+    "timezone": "Europe/London",
+    "geonameId": 2638077
+  },
+  {
+    "id": "geonames-2644688",
+    "name": "Leeds",
+    "country": "Reino Unido",
+    "continent": "Europa",
+    "lat": 53.79648,
+    "lng": -1.54785,
+    "timezone": "Europe/London",
+    "geonameId": 2644688
+  },
+  {
+    "id": "geonames-2650225",
+    "name": "Edinburgh",
+    "country": "Reino Unido",
+    "continent": "Europa",
+    "lat": 55.95206,
+    "lng": -3.19648,
+    "timezone": "Europe/London",
+    "geonameId": 2650225
+  },
+  {
+    "id": "geonames-2644210",
+    "name": "Liverpool",
+    "country": "Reino Unido",
+    "continent": "Europa",
+    "lat": 53.41058,
+    "lng": -2.97794,
+    "timezone": "Europe/London",
+    "geonameId": 2644210
+  },
+  {
+    "id": "geonames-2654675",
+    "name": "Bristol",
+    "country": "Reino Unido",
+    "continent": "Europa",
+    "lat": 51.45523,
+    "lng": -2.59665,
+    "timezone": "Europe/London",
+    "geonameId": 2654675
+  },
+  {
+    "id": "geonames-3169070",
+    "name": "Roma",
+    "country": "Itália",
+    "continent": "Europa",
+    "lat": 41.89193,
+    "lng": 12.51133,
+    "timezone": "Europe/Rome",
+    "geonameId": 3169070
+  },
+  {
+    "id": "geonames-3173435",
+    "name": "Milão",
+    "country": "Itália",
+    "continent": "Europa",
+    "lat": 45.46427,
+    "lng": 9.18951,
+    "timezone": "Europe/Rome",
+    "geonameId": 3173435
+  },
+  {
+    "id": "geonames-3172394",
+    "name": "Nápoles",
+    "country": "Itália",
+    "continent": "Europa",
+    "lat": 40.85216,
+    "lng": 14.26811,
+    "timezone": "Europe/Rome",
+    "geonameId": 3172394
+  },
+  {
+    "id": "geonames-3165524",
+    "name": "Turin",
+    "country": "Itália",
+    "continent": "Europa",
+    "lat": 45.07049,
+    "lng": 7.68682,
+    "timezone": "Europe/Rome",
+    "geonameId": 3165524
+  },
+  {
+    "id": "geonames-2523920",
+    "name": "Palermo",
+    "country": "Itália",
+    "continent": "Europa",
+    "lat": 38.1166,
+    "lng": 13.3636,
+    "timezone": "Europe/Rome",
+    "geonameId": 2523920
+  },
+  {
+    "id": "geonames-3176219",
+    "name": "Genoa",
+    "country": "Itália",
+    "continent": "Europa",
+    "lat": 44.40478,
+    "lng": 8.94439,
+    "timezone": "Europe/Rome",
+    "geonameId": 3176219
+  },
+  {
+    "id": "geonames-3181928",
+    "name": "Bologna",
+    "country": "Itália",
+    "continent": "Europa",
+    "lat": 44.49381,
+    "lng": 11.33875,
+    "timezone": "Europe/Rome",
+    "geonameId": 3181928
+  },
+  {
+    "id": "geonames-3176959",
+    "name": "Florença",
+    "country": "Itália",
+    "continent": "Europa",
+    "lat": 43.77925,
+    "lng": 11.24626,
+    "timezone": "Europe/Rome",
+    "geonameId": 3176959
+  },
+  {
+    "id": "geonames-3182351",
+    "name": "Bari",
+    "country": "Itália",
+    "continent": "Europa",
+    "lat": 41.12066,
+    "lng": 16.86982,
+    "timezone": "Europe/Rome",
+    "geonameId": 3182351
+  },
+  {
+    "id": "geonames-1275339",
+    "name": "Mumbai",
+    "country": "Índia",
+    "continent": "Ásia",
+    "lat": 19.07283,
+    "lng": 72.88261,
+    "timezone": "Asia/Kolkata",
+    "geonameId": 1275339
+  },
+  {
+    "id": "geonames-1273294",
+    "name": "Nova Deli",
+    "country": "Índia",
+    "continent": "Ásia",
+    "lat": 28.65195,
+    "lng": 77.23149,
+    "timezone": "Asia/Kolkata",
+    "geonameId": 1273294
+  },
+  {
+    "id": "geonames-1277333",
+    "name": "Bengaluru",
+    "country": "Índia",
+    "continent": "Ásia",
+    "lat": 12.97194,
+    "lng": 77.59369,
+    "timezone": "Asia/Kolkata",
+    "geonameId": 1277333
+  },
+  {
+    "id": "geonames-1269843",
+    "name": "Hyderabad",
+    "country": "Índia",
+    "continent": "Ásia",
+    "lat": 17.38405,
+    "lng": 78.45636,
+    "timezone": "Asia/Kolkata",
+    "geonameId": 1269843
+  },
+  {
+    "id": "geonames-1264527",
+    "name": "Chennai",
+    "country": "Índia",
+    "continent": "Ásia",
+    "lat": 13.08784,
+    "lng": 80.27847,
+    "timezone": "Asia/Kolkata",
+    "geonameId": 1264527
+  },
+  {
+    "id": "geonames-1275004",
+    "name": "Kolkata",
+    "country": "Índia",
+    "continent": "Ásia",
+    "lat": 22.56263,
+    "lng": 88.36304,
+    "timezone": "Asia/Kolkata",
+    "geonameId": 1275004
+  },
+  {
+    "id": "geonames-1255364",
+    "name": "Surat",
+    "country": "Índia",
+    "continent": "Ásia",
+    "lat": 21.19594,
+    "lng": 72.83023,
+    "timezone": "Asia/Kolkata",
+    "geonameId": 1255364
+  },
+  {
+    "id": "geonames-1269515",
+    "name": "Jaipur",
+    "country": "Índia",
+    "continent": "Ásia",
+    "lat": 26.91962,
+    "lng": 75.78781,
+    "timezone": "Asia/Kolkata",
+    "geonameId": 1269515
+  },
+  {
+    "id": "geonames-1264733",
+    "name": "Lucknow",
+    "country": "Índia",
+    "continent": "Ásia",
+    "lat": 26.83928,
+    "lng": 80.92313,
+    "timezone": "Asia/Kolkata",
+    "geonameId": 1264733
+  },
+  {
+    "id": "geonames-3117735",
+    "name": "Madri",
+    "country": "Espanha",
+    "continent": "Europa",
+    "lat": 40.4165,
+    "lng": -3.70256,
+    "timezone": "Europe/Madrid",
+    "geonameId": 3117735
+  },
+  {
+    "id": "geonames-3128760",
+    "name": "Barcelona",
+    "country": "Espanha",
+    "continent": "Europa",
+    "lat": 41.38879,
+    "lng": 2.15899,
+    "timezone": "Europe/Madrid",
+    "geonameId": 3128760
+  },
+  {
+    "id": "geonames-2509954",
+    "name": "Valencia",
+    "country": "Espanha",
+    "continent": "Europa",
+    "lat": 39.47391,
+    "lng": -0.37966,
+    "timezone": "Europe/Madrid",
+    "geonameId": 2509954
+  },
+  {
+    "id": "geonames-3104324",
+    "name": "Zaragoza",
+    "country": "Espanha",
+    "continent": "Europa",
+    "lat": 41.65606,
+    "lng": -0.87734,
+    "timezone": "Europe/Madrid",
+    "geonameId": 3104324
+  },
+  {
+    "id": "geonames-2510911",
+    "name": "Sevilla",
+    "country": "Espanha",
+    "continent": "Europa",
+    "lat": 37.38283,
+    "lng": -5.97317,
+    "timezone": "Europe/Madrid",
+    "geonameId": 2510911
+  },
+  {
+    "id": "geonames-2514256",
+    "name": "Málaga",
+    "country": "Espanha",
+    "continent": "Europa",
+    "lat": 36.72016,
+    "lng": -4.42034,
+    "timezone": "Europe/Madrid",
+    "geonameId": 2514256
+  },
+  {
+    "id": "geonames-2513416",
+    "name": "Murcia",
+    "country": "Espanha",
+    "continent": "Europa",
+    "lat": 37.98704,
+    "lng": -1.13004,
+    "timezone": "Europe/Madrid",
+    "geonameId": 2513416
+  },
+  {
+    "id": "geonames-2512989",
+    "name": "Palma",
+    "country": "Espanha",
+    "continent": "Europa",
+    "lat": 39.56939,
+    "lng": 2.65024,
+    "timezone": "Europe/Madrid",
+    "geonameId": 2512989
+  },
+  {
+    "id": "geonames-2515270",
+    "name": "Las Palmas de Gran Canaria",
+    "country": "Espanha",
+    "continent": "Europa",
+    "lat": 28.10178,
+    "lng": -15.41573,
+    "timezone": "Atlantic/Canary",
+    "geonameId": 2515270
+  },
+  {
+    "id": "geonames-4140963",
+    "name": "Washington",
+    "country": "EUA",
+    "continent": "América do Norte",
+    "lat": 38.89511,
+    "lng": -77.03637,
+    "timezone": "America/New_York",
+    "geonameId": 4140963
+  }
+]

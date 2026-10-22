@@ -1,0 +1,6 @@
+{
+  "name": "umaps", "private": true, "type": "module",
+  "scripts": {"test": "node --test tests/*.test.mjs", "test:browser": "playwright test", "vendor": "esbuild vendor-entry.js --bundle --format=esm --minify --outfile=vendor/globe.js --legal-comments=eof"},
+  "dependencies": {"globe.gl": "2.45.0"},
+  "devDependencies": {"@playwright/test": "1.56.1", "esbuild": "0.25.12"}
+}
