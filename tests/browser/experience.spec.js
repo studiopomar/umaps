@@ -1,5 +1,5 @@
 import {test,expect} from '@playwright/test';
-async function ready(page){await page.goto('./');await expect(page.locator('.person')).toHaveCount(273);}
+async function ready(page){await page.goto('./');await expect(page.locator('.person')).toHaveCount(336);}
 async function select(page,name){await page.locator('#search').fill(name);await page.locator('.add').first().click();}
 async function travel(page){await select(page,'Finn');await select(page,'VIICTOR');await page.getByRole('tab',{name:'Nosso encontro'}).click();await page.locator('#meeting-country').selectOption('Japão');await page.locator('#city').selectOption('toquio');await page.locator('#topic').selectOption('oto');await page.locator('#meeting-submit').click();}
 test('meeting confirmation stays reachable with two to four people, even after opening chat',async({page})=>{
@@ -14,7 +14,7 @@ test('meeting confirmation stays reachable with two to four people, even after o
 });
 test('desktop: source, groups, trip, branching dialogue, reload and restore',async({page})=>{
  const errors=[];page.on('pageerror',e=>errors.push(e.message));await page.emulateMedia({reducedMotion:'reduce'});await ready(page);
- await expect(page.locator('.marker').first()).toBeVisible();await page.locator('.marker').first().click();await expect(page.locator('#globe-card')).toBeVisible();await expect(page.locator('.globe-card-list')).toBeVisible();await page.locator('#search').fill('Finn');await page.locator('.person-open').click();await expect(page.locator('.profile')).toContainText('Plataforma confirmada');await expect(page.locator('.profile a')).toHaveAttribute('href',/Finn_Barringtone/);
+ await expect(page.locator('.marker').first()).toBeVisible();await page.locator('.marker').first().click();await expect(page.locator('#globe-card')).toBeVisible();await expect(page.locator('.globe-card-list')).toBeVisible();await page.locator('#search').fill('Finn');await page.locator('.person-open').click();await expect(page.locator('.profile')).toContainText('Plataformas na wiki');await expect(page.locator('.profile a')).toHaveAttribute('href',/Finn_Barringtone/);
  await travel(page);await expect(page.locator('#journey')).toContainText('A caminho de Tóquio');await expect(page.locator('#journey')).toContainText('Encontro em Tóquio',{timeout:10000});await page.locator('#choices button').first().click();await page.locator('#choices button').nth(1).click();await expect(page.getByRole('button',{name:'Continuar a conversa'})).toBeVisible();
  await page.reload();await expect(page.locator('#journey')).toContainText('Encontro em Tóquio');await expect(page.locator('#messages')).toContainText('Você');await expect(page.getByRole('button',{name:'Continuar a conversa'})).toBeVisible();
  await page.getByRole('tab',{name:'Explorar',exact:true}).click();await page.locator('#search').fill('Finn');await page.locator('.person-open').click();await expect(page.locator('.profile')).toContainText('Tóquio, Japão');await page.locator('#settings').click();await page.locator('#restore').click();await expect(page.locator('#data-status')).toContainText('restaurados');expect(errors).toEqual([]);
