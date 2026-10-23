@@ -141,7 +141,7 @@ function renderParticipants(){
 }
 function showProfile(p,focus=true){
  active=p;if(focus)tab('explore');const c=cityById(destination(p,state)),card=node('article',undefined,'profile'),close=node('button','×','close');close.setAttribute('aria-label','Fechar ficha');close.onclick=()=>{$('profile').replaceChildren();active=null;};card.append(close,portrait(p),node('h3',p.name));
- const details=node('dl');for(const [title,value] of [['Plataforma confirmada',p.platform],['Origem documentada',p.origin],['Destino',`${c.name}, ${c.country} · ${c.continent}`],['Horário local',new Intl.DateTimeFormat('pt-BR',{timeZone:c.timezone,hour:'2-digit',minute:'2-digit'}).format(new Date())+' · '+c.timezone]]){if(value){details.append(node('dt',title),node('dd',value));}}card.append(details);
+ const details=node('dl');for(const [title,value] of [['Plataformas na wiki',p.platform],['Origem documentada',p.origin],['Destino',`${c.name}, ${c.country} · ${c.continent}`],['Horário local',new Intl.DateTimeFormat('pt-BR',{timeZone:c.timezone,hour:'2-digit',minute:'2-digit'}).format(new Date())+' · '+c.timezone]]){if(value){details.append(node('dt',title),node('dd',value));}}card.append(details);
  if(!p.origin)card.append(node('p','Origem geográfica não verificada.','muted'));
  const source=node('a','Ver registro e créditos na VSynthBR ↗');source.href=p.source;source.target='_blank';source.rel='noopener noreferrer';card.append(source);
  const label=node('label','Escolher outro destino');label.htmlFor='profile-city';const select=node('select');select.id='profile-city';for(const city of cities)select.append(option(city.id,`${city.name}, ${city.country}`));select.value=c.id;

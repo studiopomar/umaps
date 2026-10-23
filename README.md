@@ -1,6 +1,6 @@
 # uMapas
 
-O uMapas é um jeito de passear pelo mundo dos UTAUs brasileiros da VSynthBR. Explore o globo, descubra personagens, escolha onde encontrar seus favoritos e acompanhe a viagem até a conversa começar.
+O uMapas é um jeito de passear pelo mundo dos bancos de voz publicados na VSynthBR. Explore o globo, descubra personagens, escolha onde encontrar seus favoritos e acompanhe a viagem até a conversa começar.
 
 O clima das capitais e dos lugares de encontro aparece no próprio mapa. Também há rotas com duração em tempo real, alertas de terremotos reportados pela USGS e um chat no canto da tela, onde os personagens conversam sobre música, cotidiano e síntese vocal.
 
@@ -34,7 +34,7 @@ As escolhas de destino, o encontro atual e as preferências ficam salvos neste n
 
 ## Catálogo e referências
 
-O catálogo local em `data/characters.json` guarda o recorte revisado da VSynthBR, com IDs estáveis, fontes, plataforma e origem quando documentadas. A atualização pela wiki pode renovar retratos, sem substituir o catálogo nem apagar destinos e encontros. Quando a origem não está confirmada, ela permanece em branco. Retratos indisponíveis usam `assets/avatar.svg`.
+O catálogo local em `data/characters.json` inclui todas as páginas de bancos de voz da categoria [Bancos de voz](https://vsynthbr.fandom.com/pt-br/wiki/Categoria:Bancos_de_voz) da VSynthBR. Ele guarda IDs estáveis, fontes, plataformas categorizadas e origens documentadas. A atualização pela wiki pode renovar retratos, sem apagar destinos e encontros. Quando a origem não está confirmada, ela permanece em branco. Retratos indisponíveis usam `assets/avatar.svg`.
 
 As cidades e coordenadas estão em `data/cities.json`. Personagens que compartilham uma cidade aparecem juntos no globo; aproxime o mapa para separar marcadores próximos. A lista de capitais está em `data/capitals.json`.
 

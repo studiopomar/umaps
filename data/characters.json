@@ -1,6 +1,6 @@
 {
   "checkedAt": "2026-10-22",
-  "selection": "Interseção das categorias UTAUs do Brasil e UTAU na VSynthBR; origem geográfica não inferida.",
+  "selection": "Todos os bancos de voz da categoria Bancos de voz da VSynthBR; plataformas e origens só são indicadas quando categorizadas ou documentadas.",
   "characters": [
     {
       "id": "vsynthbr-242",
@@ -47,26 +47,26 @@
       "revision": 8657
     },
     {
-      "id": "vsynthbr-3641",
-      "pageId": 3641,
-      "name": "Aiyra Ipê",
-      "platform": "UTAU",
-      "origin": null,
-      "defaultCity": "sao-paulo",
-      "image": "https://static.wikia.nocookie.net/vsynthbr/images/8/84/Aiyra.png/revision/latest/scale-to-width-down/104?cb=20251125232004&path-prefix=pt-br",
-      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Aiyra_Ip%C3%AA",
-      "revision": 12324
-    },
-    {
       "id": "vsynthbr-1378",
       "pageId": 1378,
       "name": "AK1",
-      "platform": "UTAU",
+      "platform": "UTAU / DeepVocal",
       "origin": null,
       "defaultCity": "rio-de-janeiro",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/e/ef/Aiko_Akarui_1.5_%282023%29.png/revision/latest/scale-to-width-down/80?cb=20231112000328&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/AK1",
       "revision": 12035
+    },
+    {
+      "id": "vsynthbr-1486",
+      "pageId": 1486,
+      "name": "Akami Karime",
+      "platform": "UTAU",
+      "origin": null,
+      "defaultCity": "geonames-3469058",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/5/5d/Akami_%26_Akira_Karime.png/revision/latest/scale-to-width-down/98?cb=20230414213407&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Akami_Karime",
+      "revision": 8643
     },
     {
       "id": "vsynthbr-3164",
@@ -78,6 +78,17 @@
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/b/bc/Akari_Mahou.png/revision/latest/scale-to-width-down/160?cb=20250118231834&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/Akari_Mahou",
       "revision": 8320
+    },
+    {
+      "id": "vsynthbr-4030",
+      "pageId": 4030,
+      "name": "Akarin Johannsen",
+      "platform": "Banco de voz",
+      "origin": null,
+      "defaultCity": "geonames-3462377",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/f/fb/Design_final_.png/revision/latest/scale-to-width-down/109?cb=20260321150145&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Akarin_Johannsen",
+      "revision": 12190
     },
     {
       "id": "vsynthbr-2929",
@@ -94,12 +105,23 @@
       "id": "vsynthbr-502",
       "pageId": 502,
       "name": "AKIO",
-      "platform": "UTAU",
+      "platform": "UTAU / RVC",
       "origin": null,
       "defaultCity": "rio-de-janeiro",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/b/bf/Akiotts.png/revision/latest/scale-to-width-down/146?cb=20260828002822&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/AKIO",
       "revision": 12161
+    },
+    {
+      "id": "vsynthbr-1485",
+      "pageId": 1485,
+      "name": "Akira Karime",
+      "platform": "UTAU",
+      "origin": null,
+      "defaultCity": "geonames-3405870",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/5/5d/Akami_%26_Akira_Karime.png/revision/latest/scale-to-width-down/98?cb=20230414213407&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Akira_Karime",
+      "revision": 8642
     },
     {
       "id": "vsynthbr-1204",
@@ -116,12 +138,23 @@
       "id": "vsynthbr-1156",
       "pageId": 1156,
       "name": "Alex",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "belo-horizonte",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/0/04/Alex.png/revision/latest/scale-to-width-down/76?cb=20220724190035&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/Alex",
       "revision": 8368
+    },
+    {
+      "id": "vsynthbr-121",
+      "pageId": 121,
+      "name": "Alex Yag",
+      "platform": "Banco de voz",
+      "origin": null,
+      "defaultCity": "geonames-3395981",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/b/be/Ay_purple.png/revision/latest/scale-to-width-down/80?cb=20211130002524&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Alex_Yag",
+      "revision": 5357
     },
     {
       "id": "vsynthbr-3835",
@@ -133,6 +166,16 @@
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/5/5b/V3_illust.png/revision/latest/scale-to-width-down/160?cb=20260709011325&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/ALI-SAN",
       "revision": 12196
+    },
+    {
+      "id": "vsynthbr-4266",
+      "pageId": 4266,
+      "name": "ALICIA",
+      "platform": "Banco de voz",
+      "origin": null,
+      "defaultCity": "geonames-3388368",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/ALICIA",
+      "revision": 12313
     },
     {
       "id": "vsynthbr-314",
@@ -171,7 +214,7 @@
       "id": "vsynthbr-3672",
       "pageId": 3672,
       "name": "Alli Kays",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "porto-alegre",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/d/d2/Render_Oficial.png/revision/latest/scale-to-width-down/129?cb=20251209035803&path-prefix=pt-br",
@@ -204,12 +247,34 @@
       "id": "vsynthbr-2900",
       "pageId": 2900,
       "name": "AlphaNox",
-      "platform": "UTAU",
+      "platform": "UTAU / DeepVocal",
       "origin": null,
       "defaultCity": "porto-alegre",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/c/ca/AlphaNox.png/revision/latest/scale-to-width-down/125?cb=20241007215835&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/AlphaNox",
       "revision": 7714
+    },
+    {
+      "id": "vsynthbr-am0r0s",
+      "pageId": 3628,
+      "name": "AM0R0S",
+      "platform": "UTAU / OpenUtau",
+      "origin": null,
+      "defaultCity": "lisboa",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/e/e1/AM0R0S_FULLBODY.png/revision/latest/scale-to-width-down/90?cb=20251109181918&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/AM0R0S",
+      "revision": 10982
+    },
+    {
+      "id": "vsynthbr-2954",
+      "pageId": 2954,
+      "name": "AMAki",
+      "platform": "UTAU / OpenUtau",
+      "origin": null,
+      "defaultCity": "geonames-3467747",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/4/45/AMAki.png/revision/latest/scale-to-width-down/106?cb=20241027185456&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/AMAki",
+      "revision": 8369
     },
     {
       "id": "vsynthbr-2897",
@@ -270,7 +335,7 @@
       "id": "vsynthbr-3664",
       "pageId": 3664,
       "name": "Apollo",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "salvador",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/f/f9/Ap3rd.png/revision/latest/scale-to-width-down/74?cb=20251129013235&path-prefix=pt-br",
@@ -281,7 +346,7 @@
       "id": "vsynthbr-3599",
       "pageId": 3599,
       "name": "Apollyo XII",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "recife",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/c/c6/Apollyo_XII_-_Portador_Maluco.png/revision/latest/scale-to-width-down/120?cb=20260816135329&path-prefix=pt-br",
@@ -322,6 +387,17 @@
       "revision": 9608
     },
     {
+      "id": "vsynthbr-1547",
+      "pageId": 1547,
+      "name": "Aria Violet",
+      "platform": "UTAU",
+      "origin": null,
+      "defaultCity": "geonames-3394023",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/b/b7/Aria_Violet.png/revision/latest/scale-to-width-down/160?cb=20230507230658&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Aria_Violet",
+      "revision": 8638
+    },
+    {
       "id": "vsynthbr-950",
       "pageId": 950,
       "name": "Arieru Negative",
@@ -336,7 +412,7 @@
       "id": "vsynthbr-942",
       "pageId": 942,
       "name": "Arieru Positive",
-      "platform": "UTAU",
+      "platform": "UTAU / DeepVocal",
       "origin": null,
       "defaultCity": "curitiba",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/d/d5/Arieru_Positive.png/revision/latest/scale-to-width-down/86?cb=20220416042814&path-prefix=pt-br",
@@ -402,7 +478,7 @@
       "id": "vsynthbr-1170",
       "pageId": 1170,
       "name": "Bara Buru",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "manaus",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/2/22/Bara_Buru_Anchor.png/revision/latest/scale-to-width-down/95?cb=20220724172540&path-prefix=pt-br",
@@ -479,7 +555,7 @@
       "id": "vsynthbr-3944",
       "pageId": 3944,
       "name": "CALLIN ROEN",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "fortaleza",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/3/35/Callin_Roen.png/revision/latest/scale-to-width-down/90?cb=20260228053009&path-prefix=pt-br",
@@ -512,7 +588,7 @@
       "id": "vsynthbr-1050",
       "pageId": 1050,
       "name": "CHANMI",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "vila-bela-da-santissima-trindade",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/f/f7/CHANMI.png/revision/latest/scale-to-width-down/118?cb=20220504213652&path-prefix=pt-br",
@@ -523,7 +599,7 @@
       "id": "vsynthbr-2891",
       "pageId": 2891,
       "name": "Charott Ibbon",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "vila-bela-da-santissima-trindade",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/2/2a/Charott_Ibbon.png/revision/latest/scale-to-width-down/73?cb=20240929023233&path-prefix=pt-br",
@@ -534,7 +610,7 @@
       "id": "vsynthbr-470",
       "pageId": 470,
       "name": "Chelly",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "vila-bela-da-santissima-trindade",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/0/03/Chelly.png/revision/latest/scale-to-width-down/82?cb=20220212020932&path-prefix=pt-br",
@@ -586,6 +662,17 @@
       "revision": 11625
     },
     {
+      "id": "vsynthbr-1894",
+      "pageId": 1894,
+      "name": "Deiji Makotone",
+      "platform": "UTAU",
+      "origin": null,
+      "defaultCity": "geonames-3386496",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/a/a4/Deiji_Makotone.png/revision/latest/scale-to-width-down/113?cb=20230610202920&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Deiji_Makotone",
+      "revision": 5360
+    },
+    {
       "id": "vsynthbr-2846",
       "pageId": 2846,
       "name": "DiegoiD",
@@ -608,6 +695,28 @@
       "revision": 8598
     },
     {
+      "id": "vsynthbr-3022",
+      "pageId": 3022,
+      "name": "Dirt bee",
+      "platform": "OpenUtau",
+      "origin": null,
+      "defaultCity": "geonames-3456160",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/8/8b/Dirt_bee.png/revision/latest/scale-to-width-down/85?cb=20241109211206&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Dirt_bee",
+      "revision": 8707
+    },
+    {
+      "id": "vsynthbr-3113",
+      "pageId": 3113,
+      "name": "Doa Tobiraka",
+      "platform": "UTAU / OpenUtau",
+      "origin": null,
+      "defaultCity": "geonames-3397277",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/a/aa/Doa_Tobiraka.png/revision/latest/scale-to-width-down/54?cb=20250103185708&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Doa_Tobiraka",
+      "revision": 8375
+    },
+    {
       "id": "vsynthbr-2473",
       "pageId": 2473,
       "name": "DORA",
@@ -622,7 +731,7 @@
       "id": "vsynthbr-3280",
       "pageId": 3280,
       "name": "Dorolina slonin",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "buenos-aires",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/3/3d/Dorolina_slonin.png/revision/latest/scale-to-width-down/80?cb=20250311021026&path-prefix=pt-br",
@@ -652,6 +761,17 @@
       "revision": 7654
     },
     {
+      "id": "vsynthbr-1543",
+      "pageId": 1543,
+      "name": "Dudu Tsuyone",
+      "platform": "UTAU",
+      "origin": null,
+      "defaultCity": "geonames-3447399",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/d/d8/DUDU_PRISMA.png/revision/latest/scale-to-width-down/91?cb=20251011192454&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Dudu_Tsuyone",
+      "revision": 12197
+    },
+    {
       "id": "vsynthbr-1364",
       "pageId": 1364,
       "name": "Echo Elic",
@@ -666,7 +786,7 @@
       "id": "vsynthbr-210",
       "pageId": 210,
       "name": "EDDIE",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "toquio",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/e/ec/EDDIE.png/revision/latest/scale-to-width-down/113?cb=20230601202524&path-prefix=pt-br",
@@ -685,6 +805,17 @@
       "revision": 11047
     },
     {
+      "id": "vsynthbr-3931",
+      "pageId": 3931,
+      "name": "Eirian Chikyu",
+      "platform": "UTAU / OpenUtau / DeepVocal",
+      "origin": null,
+      "defaultCity": "geonames-3448636",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/a/ad/248_Sem_Titulo_20260221225208.png/revision/latest/scale-to-width-down/120?cb=20260222043323&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Eirian_Chikyu",
+      "revision": 11982
+    },
+    {
       "id": "vsynthbr-2059",
       "pageId": 2059,
       "name": "Eliott",
@@ -694,6 +825,17 @@
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/6/65/Eliott.png/revision/latest/scale-to-width-down/91?cb=20230625001950&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/Eliott",
       "revision": 8658
+    },
+    {
+      "id": "vsynthbr-3318",
+      "pageId": 3318,
+      "name": "Elisa",
+      "platform": "DeepVocal",
+      "origin": null,
+      "defaultCity": "geonames-2735943",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/a/a7/Elisa.png/revision/latest/scale-to-width-down/96?cb=20250324025810&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Elisa",
+      "revision": 9057
     },
     {
       "id": "vsynthbr-3019",
@@ -710,12 +852,23 @@
       "id": "vsynthbr-1191",
       "pageId": 1191,
       "name": "ERROR 404",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "toquio",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/c/c5/ERROR_404_MUSICAL.png/revision/latest/scale-to-width-down/69?cb=20230619051624&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/ERROR_404",
       "revision": 9750
+    },
+    {
+      "id": "vsynthbr-4054",
+      "pageId": 4054,
+      "name": "EUTAULOID",
+      "platform": "Banco de voz",
+      "origin": null,
+      "defaultCity": "geonames-2742032",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/0/09/Eutauloid.png/revision/latest/scale-to-width-down/120?cb=20260408142856&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/EUTAULOID",
+      "revision": 11783
     },
     {
       "id": "vsynthbr-863",
@@ -727,6 +880,17 @@
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/d/db/EVAN.png/revision/latest/scale-to-width-down/125?cb=20220426201347&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/EVAN",
       "revision": 11044
+    },
+    {
+      "id": "vsynthbr-3528",
+      "pageId": 3528,
+      "name": "Evelyn",
+      "platform": "Banco de voz",
+      "origin": null,
+      "defaultCity": "geonames-2740637",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/8/8e/Evelyn.png/revision/latest/scale-to-width-down/113?cb=20250710065949&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Evelyn",
+      "revision": 12184
     },
     {
       "id": "vsynthbr-1312",
@@ -765,12 +929,34 @@
       "id": "vsynthbr-1000",
       "pageId": 1000,
       "name": "FUKA",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "berlim",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/2/22/FUKA.png/revision/latest/scale-to-width-down/90?cb=20220510000242&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/FUKA",
       "revision": 8378
+    },
+    {
+      "id": "vsynthbr-4100",
+      "pageId": 4100,
+      "name": "Fukanou Kelly",
+      "platform": "OpenUtau",
+      "origin": null,
+      "defaultCity": "geonames-2267095",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/8/85/KellyPng.png/revision/latest/scale-to-width-down/93?cb=20260524023317&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Fukanou_Kelly",
+      "revision": 11758
+    },
+    {
+      "id": "vsynthbr-2698",
+      "pageId": 2698,
+      "name": "Furu Haru",
+      "platform": "RVC",
+      "origin": null,
+      "defaultCity": "geonames-2262963",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/b/ba/Haru_furu.png/revision/latest/scale-to-width-down/90?cb=20231110050821&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Furu_Haru",
+      "revision": 9751
     },
     {
       "id": "vsynthbr-1515",
@@ -831,11 +1017,11 @@
       "id": "vsynthbr-3865",
       "pageId": 3865,
       "name": "GPT Loid (チャットグプト ロイド)",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "seul",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/0/04/Gpt_fudido2.0.png/revision/latest/scale-to-width-down/80?cb=20261020134202&path-prefix=pt-br",
-      "source": "https://vsynthbr.fandom.com/pt-br/wiki/GPT_Loid_%28%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%82%B0%E3%83%97%E3%83%88_%E3%83%AD%E3%82%A4%E3%83%89%29",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/GPT_Loid_(%E3%83%81%E3%83%A3%E3%83%83%E3%83%88%E3%82%B0%E3%83%97%E3%83%88_%E3%83%AD%E3%82%A4%E3%83%89)",
       "revision": 12354
     },
     {
@@ -853,7 +1039,7 @@
       "id": "vsynthbr-3312",
       "pageId": 3312,
       "name": "Guh",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "seul",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/b/b0/Guh.png/revision/latest/scale-to-width-down/113?cb=20250319205539&path-prefix=pt-br",
@@ -861,10 +1047,21 @@
       "revision": 12033
     },
     {
+      "id": "vsynthbr-4153",
+      "pageId": 4153,
+      "name": "GUS",
+      "platform": "UTAU",
+      "origin": null,
+      "defaultCity": "geonames-2267827",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/e/e5/Portrait_GUS_BETA.png/revision/latest/scale-to-width-down/59?cb=20260711233104&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/GUS",
+      "revision": 11943
+    },
+    {
       "id": "vsynthbr-2760",
       "pageId": 2760,
       "name": "GUZ",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "seul",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/7/7d/Guzz.png/revision/latest/scale-to-width-down/160?cb=20240113161641&path-prefix=pt-br",
@@ -952,7 +1149,7 @@
       "id": "vsynthbr-1215",
       "pageId": 1215,
       "name": "Hikane Ura",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "cidade-do-cabo",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/6/6d/HikaneUraFullBody.png/revision/latest/scale-to-width-down/160?cb=20220918004604&path-prefix=pt-br",
@@ -969,6 +1166,17 @@
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/c/c9/Hikari_Kuro.png/revision/latest/scale-to-width-down/114?cb=20241024011331&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/Hikari_Kuro",
       "revision": 7809
+    },
+    {
+      "id": "vsynthbr-3703",
+      "pageId": 3703,
+      "name": "Hikarine Ikaru",
+      "platform": "Banco de voz",
+      "origin": null,
+      "defaultCity": "geonames-2732265",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/7/72/Arte_por_4gothi.png/revision/latest/scale-to-width-down/120?cb=20260804144127&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Hikarine_Ikaru",
+      "revision": 12032
     },
     {
       "id": "vsynthbr-1603",
@@ -1004,6 +1212,28 @@
       "revision": 8605
     },
     {
+      "id": "vsynthbr-2417",
+      "pageId": 2417,
+      "name": "Hoami Miruka",
+      "platform": "RVC",
+      "origin": null,
+      "defaultCity": "geonames-2742611",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/6/6a/Hoami_AI_%28RVC%29.png/revision/latest/scale-to-width-down/98?cb=20230726125839&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Hoami_Miruka",
+      "revision": 6916
+    },
+    {
+      "id": "vsynthbr-554",
+      "pageId": 554,
+      "name": "Holo",
+      "platform": "UTAU",
+      "origin": null,
+      "defaultCity": "geonames-3860259",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/2/2c/Holo.png/revision/latest/scale-to-width-down/91?cb=20220213011556&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Holo",
+      "revision": 10928
+    },
+    {
       "id": "vsynthbr-2164",
       "pageId": 2164,
       "name": "Holy Megami",
@@ -1037,6 +1267,17 @@
       "revision": 9595
     },
     {
+      "id": "vsynthbr-2389",
+      "pageId": 2389,
+      "name": "Hydrangea",
+      "platform": "DeepVocal",
+      "origin": null,
+      "defaultCity": "geonames-3838583",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/6/64/Hydrangea.png/revision/latest/scale-to-width-down/160?cb=20230723042646&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Hydrangea",
+      "revision": 6117
+    },
+    {
       "id": "vsynthbr-3111",
       "pageId": 3111,
       "name": "Ichigo Tokai",
@@ -1048,6 +1289,28 @@
       "revision": 9622
     },
     {
+      "id": "vsynthbr-3099",
+      "pageId": 3099,
+      "name": "Ignis",
+      "platform": "UTAU",
+      "origin": null,
+      "defaultCity": "geonames-3430863",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/9/9a/1097_Sem_Titulo_20240703102911.png/revision/latest/scale-to-width-down/90?cb=20241221101116&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Ignis",
+      "revision": 8570
+    },
+    {
+      "id": "vsynthbr-282",
+      "pageId": 282,
+      "name": "Iris no Shiore",
+      "platform": "UTAU",
+      "origin": null,
+      "defaultCity": "geonames-3836873",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/a/a5/Iris_no_Shiore.png/revision/latest/scale-to-width-down/94?cb=20220130232229&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Iris_no_Shiore",
+      "revision": 8649
+    },
+    {
       "id": "vsynthbr-1524",
       "pageId": 1524,
       "name": "Itsuki",
@@ -1057,6 +1320,17 @@
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/8/8d/Itsuki.png/revision/latest/scale-to-width-down/107?cb=20230423162303&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/Itsuki",
       "revision": 4566
+    },
+    {
+      "id": "vsynthbr-1591",
+      "pageId": 1591,
+      "name": "Izekiel",
+      "platform": "UTAU",
+      "origin": null,
+      "defaultCity": "geonames-3838233",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/7/79/Izekiel.png/revision/latest/scale-to-width-down/140?cb=20230517205720&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Izekiel",
+      "revision": 10446
     },
     {
       "id": "vsynthbr-3169",
@@ -1139,7 +1413,7 @@
       "id": "vsynthbr-2969",
       "pageId": 2969,
       "name": "K1R0 K1R4",
-      "platform": "UTAU",
+      "platform": "UTAU / RVC",
       "origin": null,
       "defaultCity": "sao-paulo",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/4/4e/K1R0_K1R4.png/revision/latest/scale-to-width-down/135?cb=20241031202245&path-prefix=pt-br",
@@ -1161,7 +1435,7 @@
       "id": "vsynthbr-4137",
       "pageId": 4137,
       "name": "Kai Yozora",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "rio-de-janeiro",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/a/a1/ArteFullBody%E5%A4%9C%E7%A9%BA%E6%80%AABETA.png/revision/latest/scale-to-width-down/99?cb=20260629171427&path-prefix=pt-br",
@@ -1183,12 +1457,23 @@
       "id": "vsynthbr-1325",
       "pageId": 1325,
       "name": "KAS",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau / RVC",
       "origin": null,
       "defaultCity": "rio-de-janeiro",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/a/ab/KAS.png/revision/latest/scale-to-width-down/95?cb=20230319160031&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/KAS",
       "revision": 8388
+    },
+    {
+      "id": "vsynthbr-3413",
+      "pageId": 3413,
+      "name": "KATSUO",
+      "platform": "Banco de voz",
+      "origin": null,
+      "defaultCity": "geonames-3836277",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/b/b6/KATSUO_by_bobiart.png/revision/latest/scale-to-width-down/99?cb=20250515232239&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/KATSUO",
+      "revision": 11048
     },
     {
       "id": "vsynthbr-2924",
@@ -1205,7 +1490,7 @@
       "id": "vsynthbr-1397",
       "pageId": 1397,
       "name": "KEI",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "rio-de-janeiro",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/b/b6/KEI.png/revision/latest/scale-to-width-down/113?cb=20230406202707&path-prefix=pt-br",
@@ -1233,6 +1518,17 @@
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/6/6c/Keiko_Chizupan.png/revision/latest/scale-to-width-down/99?cb=20220125164638&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/Keiko_Chizupan",
       "revision": 9841
+    },
+    {
+      "id": "vsynthbr-2286",
+      "pageId": 2286,
+      "name": "Keiko Ishibashi",
+      "platform": "UTAU",
+      "origin": null,
+      "defaultCity": "geonames-3435217",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/6/61/Keiko_Ishibashi.png/revision/latest/scale-to-width-down/128?cb=20230707221127&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Keiko_Ishibashi",
+      "revision": 8663
     },
     {
       "id": "vsynthbr-491",
@@ -1290,6 +1586,17 @@
       "revision": 5134
     },
     {
+      "id": "vsynthbr-810",
+      "pageId": 810,
+      "name": "Kitsune Bakemono",
+      "platform": "DeepVocal",
+      "origin": null,
+      "defaultCity": "geonames-3429886",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/8/84/Kitsune_Bakemono.png/revision/latest/scale-to-width-down/148?cb=20220422010146&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Kitsune_Bakemono",
+      "revision": 4572
+    },
+    {
       "id": "vsynthbr-3032",
       "pageId": 3032,
       "name": "Kitty",
@@ -1304,12 +1611,45 @@
       "id": "vsynthbr-3992",
       "pageId": 3992,
       "name": "Kodama Kito",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "porto-alegre",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/3/3f/Kitov3_illust.png/revision/latest/scale-to-width-down/90?cb=20260921215900&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/Kodama_Kito",
       "revision": 12206
+    },
+    {
+      "id": "vsynthbr-1501",
+      "pageId": 1501,
+      "name": "Kolimi Michioto",
+      "platform": "UTAU",
+      "origin": null,
+      "defaultCity": "geonames-3865086",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/4/47/Kolimi_Michioto.png/revision/latest/scale-to-width-down/66?cb=20230415202646&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Kolimi_Michioto",
+      "revision": 8635
+    },
+    {
+      "id": "vsynthbr-1056",
+      "pageId": 1056,
+      "name": "KOUKI",
+      "platform": "UTAU",
+      "origin": null,
+      "defaultCity": "geonames-1848354",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/6/6d/KOUKI.png/revision/latest/scale-to-width-down/90?cb=20220520212923&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/KOUKI",
+      "revision": 8634
+    },
+    {
+      "id": "vsynthbr-3733",
+      "pageId": 3733,
+      "name": "Kukui",
+      "platform": "OpenUtau",
+      "origin": null,
+      "defaultCity": "geonames-1853909",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/8/84/Kukui.png/revision/latest/scale-to-width-down/129?cb=20251228212428&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Kukui",
+      "revision": 12170
     },
     {
       "id": "vsynthbr-271",
@@ -1337,7 +1677,7 @@
       "id": "vsynthbr-4089",
       "pageId": 4089,
       "name": "Kuro Atsuto",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "salvador",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/6/66/Kuro_Atsuto_Art.png/revision/latest/scale-to-width-down/106?cb=20260508231148&path-prefix=pt-br",
@@ -1385,14 +1725,14 @@
       "origin": null,
       "defaultCity": "recife",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/0/0a/Design.png/revision/latest/scale-to-width-down/72?cb=20251128165017&path-prefix=pt-br",
-      "source": "https://vsynthbr.fandom.com/pt-br/wiki/KURUNA_KOE_%28%E3%82%AF%E3%83%BC%E3%83%AB%E3%81%AA%E5%A3%B0%29_%E2%99%82/%E2%99%80",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/KURUNA_KOE_(%E3%82%AF%E3%83%BC%E3%83%AB%E3%81%AA%E5%A3%B0)_%E2%99%82/%E2%99%80",
       "revision": 11941
     },
     {
       "id": "vsynthbr-2909",
       "pageId": 2909,
       "name": "Kyairi",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "recife",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/c/c8/Kyairi.png/revision/latest/scale-to-width-down/86?cb=20241010144942&path-prefix=pt-br",
@@ -1422,10 +1762,31 @@
       "revision": 8919
     },
     {
+      "id": "vsynthbr-2007",
+      "pageId": 2007,
+      "name": "Kyoumishii",
+      "platform": "OpenUtau",
+      "origin": null,
+      "defaultCity": "geonames-1856057",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/f/f2/Kyoumishii.png/revision/latest/scale-to-width-down/118?cb=20230917163835&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Kyoumishii",
+      "revision": 12164
+    },
+    {
+      "id": "vsynthbr-4276",
+      "pageId": 4276,
+      "name": "Kyuko Fabuyo",
+      "platform": "Banco de voz",
+      "origin": null,
+      "defaultCity": "geonames-2128295",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Kyuko_Fabuyo",
+      "revision": 12346
+    },
+    {
       "id": "vsynthbr-3425",
       "pageId": 3425,
       "name": "KYUPPERA",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "recife",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/3/37/KYUPPERA.png/revision/latest/scale-to-width-down/113?cb=20250516012328&path-prefix=pt-br",
@@ -1447,7 +1808,7 @@
       "id": "vsynthbr-2703",
       "pageId": 2703,
       "name": "Li Lian",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "curitiba",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/6/6f/Li_Lian_oficial_art_no_background.png/revision/latest/scale-to-width-down/49?cb=20230903163159&path-prefix=pt-br",
@@ -1458,7 +1819,7 @@
       "id": "vsynthbr-2043",
       "pageId": 2043,
       "name": "Lila Amene",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "curitiba",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/1/1a/Lila_Amene.png/revision/latest/scale-to-width-down/91?cb=20230622200120&path-prefix=pt-br",
@@ -1480,7 +1841,7 @@
       "id": "vsynthbr-740",
       "pageId": 740,
       "name": "Liza Haiyamo",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "curitiba",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/5/5e/Liza_Haiyamo.png/revision/latest/scale-to-width-down/49?cb=20230409180113&path-prefix=pt-br",
@@ -1565,6 +1926,17 @@
       "revision": 9024
     },
     {
+      "id": "vsynthbr-4130",
+      "pageId": 4130,
+      "name": "Ma'kokain",
+      "platform": "UTAU / OpenUtau",
+      "origin": null,
+      "defaultCity": "geonames-1863967",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/8/86/Ma%27kokain_cv.png/revision/latest/scale-to-width-down/93?cb=20260707024454&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Ma%27kokain",
+      "revision": 11951
+    },
+    {
       "id": "vsynthbr-3496",
       "pageId": 3496,
       "name": "Madoka Yuu",
@@ -1579,7 +1951,7 @@
       "id": "vsynthbr-3365",
       "pageId": 3365,
       "name": "Maikeru Piano",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "fortaleza",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/e/e6/Maikerutau.png/revision/latest/scale-to-width-down/120?cb=20250420213645&path-prefix=pt-br",
@@ -1719,10 +2091,21 @@
       "revision": 8617
     },
     {
+      "id": "vsynthbr-3859",
+      "pageId": 3859,
+      "name": "Mazurana",
+      "platform": "UTAU / DeepVocal",
+      "origin": null,
+      "defaultCity": "geonames-1859171",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/4/47/Mazurana2.png/revision/latest/scale-to-width-down/120?cb=20260206015027&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Mazurana",
+      "revision": 11015
+    },
+    {
       "id": "vsynthbr-2026",
       "pageId": 2026,
       "name": "MeatBug",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "buenos-aires",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/5/5b/MeatBug.png/revision/latest/scale-to-width-down/73?cb=20230624191339&path-prefix=pt-br",
@@ -1763,6 +2146,17 @@
       "revision": 11065
     },
     {
+      "id": "vsynthbr-3405",
+      "pageId": 3405,
+      "name": "Mercy",
+      "platform": "UTAU / OpenUtau",
+      "origin": null,
+      "defaultCity": "geonames-1857910",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/6/6d/Mercy_render.png/revision/latest/scale-to-width-down/90?cb=20250508181749&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Mercy",
+      "revision": 9509
+    },
+    {
       "id": "vsynthbr-1143",
       "pageId": 1143,
       "name": "Mero Mougeki",
@@ -1788,12 +2182,23 @@
       "id": "vsynthbr-4082",
       "pageId": 4082,
       "name": "Hiki Yukari",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "toquio",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/0/0b/Michi.png/revision/latest/scale-to-width-down/80?cb=20260524121017&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/Hiki_Yukari",
       "revision": 11768
+    },
+    {
+      "id": "vsynthbr-4076",
+      "pageId": 4076,
+      "name": "Micka Itami",
+      "platform": "OpenUtau",
+      "origin": null,
+      "defaultCity": "geonames-6940394",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/8/8c/Mickapng.png/revision/latest/scale-to-width-down/63?cb=20260427010721&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Micka_Itami",
+      "revision": 11660
     },
     {
       "id": "vsynthbr-883",
@@ -1829,10 +2234,21 @@
       "revision": 9862
     },
     {
+      "id": "vsynthbr-2031",
+      "pageId": 2031,
+      "name": "MIRACLE GALAXY",
+      "platform": "RVC",
+      "origin": null,
+      "defaultCity": "geonames-1862415",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/a/ac/Miracle2025.png/revision/latest/scale-to-width-down/109?cb=20250127231318&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/MIRACLE_GALAXY",
+      "revision": 12278
+    },
+    {
       "id": "vsynthbr-2569",
       "pageId": 2569,
       "name": "MIRACLE SUPERNOVA",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "berlim",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/c/c8/Supernova_neo.png/revision/latest/scale-to-width-down/120?cb=20260821161348&path-prefix=pt-br",
@@ -1843,12 +2259,34 @@
       "id": "vsynthbr-3155",
       "pageId": 3155,
       "name": "Mirai Doa",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "berlim",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/8/84/Miraifullbody.png/revision/latest/scale-to-width-down/113?cb=20250116160913&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/Mirai_Doa",
       "revision": 10967
+    },
+    {
+      "id": "vsynthbr-1272",
+      "pageId": 1272,
+      "name": "Mitsuko Kagayakune",
+      "platform": "UTAU",
+      "origin": null,
+      "defaultCity": "geonames-2911298",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/a/ac/Mitsuko_Kagayakune.png/revision/latest/scale-to-width-down/102?cb=20230109002636&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Mitsuko_Kagayakune",
+      "revision": 8610
+    },
+    {
+      "id": "vsynthbr-2639",
+      "pageId": 2639,
+      "name": "Miyu Karime",
+      "platform": "UTAU",
+      "origin": null,
+      "defaultCity": "geonames-2867714",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/0/02/Miyu_Karime.png/revision/latest/scale-to-width-down/106?cb=20230915230241&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Miyu_Karime",
+      "revision": 6823
     },
     {
       "id": "vsynthbr-770",
@@ -1895,10 +2333,43 @@
       "revision": 10747
     },
     {
+      "id": "vsynthbr-2463",
+      "pageId": 2463,
+      "name": "Moralix Desune",
+      "platform": "UTAU",
+      "origin": null,
+      "defaultCity": "geonames-2886242",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/9/9e/Moralix_Desune.png/revision/latest/scale-to-width-down/65?cb=20230805210313&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Moralix_Desune",
+      "revision": 8645
+    },
+    {
+      "id": "vsynthbr-2305",
+      "pageId": 2305,
+      "name": "Mya Yoshine",
+      "platform": "UTAU",
+      "origin": null,
+      "defaultCity": "geonames-2934246",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/0/01/Mya_Yoshine.png/revision/latest/scale-to-width-down/86?cb=20230709220858&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Mya_Yoshine",
+      "revision": 8633
+    },
+    {
+      "id": "vsynthbr-1688",
+      "pageId": 1688,
+      "name": "Naohiro",
+      "platform": "UTAU",
+      "origin": null,
+      "defaultCity": "geonames-2825297",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/0/07/Naohiro_STRONG.png/revision/latest/scale-to-width-down/57?cb=20230602214758&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Naohiro",
+      "revision": 8609
+    },
+    {
       "id": "vsynthbr-3341",
       "pageId": 3341,
       "name": "Napolita",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "nova-york",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/2/2e/Napolita_remake.png/revision/latest/scale-to-width-down/120?cb=20251227191123&path-prefix=pt-br",
@@ -1983,6 +2454,17 @@
       "revision": 11045
     },
     {
+      "id": "vsynthbr-4200",
+      "pageId": 4200,
+      "name": "Noisy",
+      "platform": "UTAU",
+      "origin": null,
+      "defaultCity": "geonames-2935022",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/8/89/Cvvc%281%29.png/revision/latest/scale-to-width-down/90?cb=20260808211343&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Noisy",
+      "revision": 12195
+    },
+    {
       "id": "vsynthbr-2442",
       "pageId": 2442,
       "name": "Nulla Kowarene",
@@ -2005,6 +2487,17 @@
       "revision": 5837
     },
     {
+      "id": "vsynthbr-3567",
+      "pageId": 3567,
+      "name": "Nuski Bunfairu",
+      "platform": "Banco de voz",
+      "origin": null,
+      "defaultCity": "geonames-2944388",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/8/83/Nuski.png/revision/latest/scale-to-width-down/104?cb=20250820220707&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Nuski_Bunfairu",
+      "revision": 11785
+    },
+    {
       "id": "vsynthbr-1083",
       "pageId": 1083,
       "name": "Nya Tsuki",
@@ -2014,6 +2507,28 @@
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/3/32/Nya_Tsuki.png/revision/latest/scale-to-width-down/128?cb=20220603181024&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/Nya_Tsuki",
       "revision": 5993
+    },
+    {
+      "id": "vsynthbr-260",
+      "pageId": 260,
+      "name": "Nyako Nijiro",
+      "platform": "DeepVocal",
+      "origin": null,
+      "defaultCity": "geonames-2910831",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/7/7e/Nijiro_Nyako.png/revision/latest/scale-to-width-down/68?cb=20220220040414&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Nyako_Nijiro",
+      "revision": 4514
+    },
+    {
+      "id": "vsynthbr-4020",
+      "pageId": 4020,
+      "name": "Nyanko Eiram",
+      "platform": "OpenUtau",
+      "origin": null,
+      "defaultCity": "geonames-2867543",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/b/be/Gata_Eiram_companheira_da_Chikyu.png/revision/latest/scale-to-width-down/120?cb=20260315051128&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Nyanko_Eiram",
+      "revision": 11981
     },
     {
       "id": "vsynthbr-3026",
@@ -2052,7 +2567,7 @@
       "id": "vsynthbr-4250",
       "pageId": 4250,
       "name": "Oingusu Keiku",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "cidade-do-cabo",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/7/75/Oingus_ver4.png/revision/latest/scale-to-width-down/92?cb=20260930182957&path-prefix=pt-br",
@@ -2063,12 +2578,34 @@
       "id": "vsynthbr-3571",
       "pageId": 3571,
       "name": "Orenji Neko",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "cidade-do-cabo",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/5/5b/Neko_2026.png/revision/latest/scale-to-width-down/113?cb=20260901031004&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/Orenji_Neko",
       "revision": 12306
+    },
+    {
+      "id": "vsynthbr-3317",
+      "pageId": 3317,
+      "name": "Otomi Kazuo",
+      "platform": "UTAU",
+      "origin": null,
+      "defaultCity": "geonames-5368361",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/0/05/KazuoNEW.png/revision/latest/scale-to-width-down/120?cb=20260816020643&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Otomi_Kazuo",
+      "revision": 12141
+    },
+    {
+      "id": "vsynthbr-ozu-kazuki",
+      "pageId": 3603,
+      "name": "Ozu Kazuki",
+      "platform": "Banco de voz",
+      "origin": null,
+      "defaultCity": "sao-paulo",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/d/d1/Kazuki_Ozu_2026.png/revision/latest/scale-to-width-down/72?cb=20260403160309&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Ozu_Kazuki",
+      "revision": 11539
     },
     {
       "id": "vsynthbr-2230",
@@ -2102,6 +2639,17 @@
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/1/1e/PaulCartierfullbody.png/revision/latest/scale-to-width-down/69?cb=20250129104535&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/Paul_Cartier_Yukimura",
       "revision": 9809
+    },
+    {
+      "id": "vsynthbr-3980",
+      "pageId": 3980,
+      "name": "Pearto Kasane UTAU",
+      "platform": "UTAU / OpenUtau",
+      "origin": null,
+      "defaultCity": "geonames-4887398",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/2/22/PeartoOU2.png/revision/latest/scale-to-width-down/84?cb=20261004050030&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Pearto_Kasane_UTAU",
+      "revision": 12343
     },
     {
       "id": "vsynthbr-2348",
@@ -2140,7 +2688,7 @@
       "id": "vsynthbr-215",
       "pageId": 215,
       "name": "Pururu",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "sydney",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/1/13/Pururu.png/revision/latest/scale-to-width-down/114?cb=20220507192841&path-prefix=pt-br",
@@ -2181,6 +2729,17 @@
       "revision": 11214
     },
     {
+      "id": "vsynthbr-4161",
+      "pageId": 4161,
+      "name": "Raykoto (レイコト)",
+      "platform": "UTAU / OpenUtau",
+      "origin": null,
+      "defaultCity": "geonames-4699066",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/e/e4/Raykoto.png/revision/latest/scale-to-width-down/84?cb=20260718192137&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Raykoto_(%E3%83%AC%E3%82%A4%E3%82%B3%E3%83%88)",
+      "revision": 11926
+    },
+    {
       "id": "vsynthbr-2426",
       "pageId": 2426,
       "name": "Rei Ryone",
@@ -2192,10 +2751,21 @@
       "revision": 8668
     },
     {
+      "id": "vsynthbr-2095",
+      "pageId": 2095,
+      "name": "REO",
+      "platform": "RVC",
+      "origin": null,
+      "defaultCity": "geonames-5308655",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/e/e3/Yelo_01928374_-_REO.png/revision/latest/scale-to-width-down/85?cb=20250106225552&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/REO",
+      "revision": 11874
+    },
+    {
       "id": "vsynthbr-1541",
       "pageId": 1541,
       "name": "Ressa",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "toronto",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/a/aa/Ressa.png/revision/latest/scale-to-width-down/95?cb=20230412015807&path-prefix=pt-br",
@@ -2261,12 +2831,23 @@
       "id": "vsynthbr-2739",
       "pageId": 2739,
       "name": "Rinly Otozora",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau / DeepVocal",
       "origin": null,
       "defaultCity": "rio-de-janeiro",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/3/3b/Rinly2025.png/revision/latest/scale-to-width-down/131?cb=20250715205656&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/Rinly_Otozora",
       "revision": 11799
+    },
+    {
+      "id": "vsynthbr-3449",
+      "pageId": 3449,
+      "name": "Rinly Umine",
+      "platform": "Banco de voz",
+      "origin": null,
+      "defaultCity": "geonames-4560349",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/d/dc/Umine_Rinly_New_Design.png/revision/latest/scale-to-width-down/147?cb=20260622141340&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Rinly_Umine",
+      "revision": 11797
     },
     {
       "id": "vsynthbr-545",
@@ -2294,7 +2875,7 @@
       "id": "vsynthbr-575",
       "pageId": 575,
       "name": "Rodro",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "rio-de-janeiro",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/b/be/Rodro.jpg/revision/latest/scale-to-width-down/71?cb=20220222220327&path-prefix=pt-br",
@@ -2371,12 +2952,23 @@
       "id": "vsynthbr-3304",
       "pageId": 3304,
       "name": "Sakura Usagine",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "porto-alegre",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/a/ad/SakuraUsagine.png/revision/latest/scale-to-width-down/160?cb=20250316150715&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/Sakura_Usagine",
       "revision": 12228
+    },
+    {
+      "id": "vsynthbr-2221",
+      "pageId": 2221,
+      "name": "Sakuya Narumi",
+      "platform": "UTAU",
+      "origin": null,
+      "defaultCity": "geonames-4726206",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/c/cf/Sakuya_Narumi.png/revision/latest/scale-to-width-down/73?cb=20230704033730&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Sakuya_Narumi",
+      "revision": 8687
     },
     {
       "id": "vsynthbr-1627",
@@ -2459,7 +3051,7 @@
       "id": "vsynthbr-3573",
       "pageId": 3573,
       "name": "Seori Yasashisa",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "salvador",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/3/30/Seori_Yasashisa_2026.png/revision/latest/scale-to-width-down/116?cb=20260124234609&path-prefix=pt-br",
@@ -2478,6 +3070,17 @@
       "revision": 8688
     },
     {
+      "id": "vsynthbr-4019",
+      "pageId": 4019,
+      "name": "Shageki Hoshi",
+      "platform": "UTAU / OpenUtau",
+      "origin": null,
+      "defaultCity": "geonames-5391811",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/a/a9/276_Sem_Titulo_20260314165653.png/revision/latest/scale-to-width-down/120?cb=20260315231929&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Shageki_Hoshi",
+      "revision": 11743
+    },
+    {
       "id": "vsynthbr-3096",
       "pageId": 3096,
       "name": "Sheep Hitsuji",
@@ -2492,12 +3095,23 @@
       "id": "vsynthbr-4027",
       "pageId": 4027,
       "name": "Shii-Ne Zako (新音 雑魚)",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "recife",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/c/c6/ShiineZak0.png/revision/latest/scale-to-width-down/87?cb=20260321000530&path-prefix=pt-br",
-      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Shii-Ne_Zako_%28%E6%96%B0%E9%9F%B3_%E9%9B%91%E9%AD%9A%29",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Shii-Ne_Zako_(%E6%96%B0%E9%9F%B3_%E9%9B%91%E9%AD%9A)",
       "revision": 11518
+    },
+    {
+      "id": "vsynthbr-3278",
+      "pageId": 3278,
+      "name": "Shiro Hakudo",
+      "platform": "UTAU",
+      "origin": null,
+      "defaultCity": "geonames-4684888",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/9/9e/Shiro_Hakudo.png/revision/latest/scale-to-width-down/113?cb=20250309231001&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Shiro_Hakudo",
+      "revision": 9623
     },
     {
       "id": "vsynthbr-582",
@@ -2509,6 +3123,17 @@
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/9/9d/Shiroi_Tsuki.png/revision/latest/scale-to-width-down/128?cb=20220226181317&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/Shiroi_Tsuki",
       "revision": 5990
+    },
+    {
+      "id": "vsynthbr-1206",
+      "pageId": 1206,
+      "name": "Shoa Kuusei",
+      "platform": "UTAU / OpenUtau",
+      "origin": null,
+      "defaultCity": "geonames-4160021",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/f/f2/Kuusei_Shoa_2025_ver..png/revision/latest/scale-to-width-down/44?cb=20250127194238&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Shoa_Kuusei",
+      "revision": 12185
     },
     {
       "id": "vsynthbr-669",
@@ -2525,7 +3150,7 @@
       "id": "vsynthbr-2572",
       "pageId": 2572,
       "name": "Shotaro Kousaki",
-      "platform": "UTAU",
+      "platform": "UTAU / DeepVocal",
       "origin": null,
       "defaultCity": "recife",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/0/0e/Shotaro_Kousaki.png/revision/latest/scale-to-width-down/78?cb=20220617021230&path-prefix=pt-br",
@@ -2544,6 +3169,17 @@
       "revision": 5096
     },
     {
+      "id": "vsynthbr-3853",
+      "pageId": 3853,
+      "name": "Silly",
+      "platform": "UTAU",
+      "origin": null,
+      "defaultCity": "geonames-1838524",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/6/65/SillyC.png/revision/latest/scale-to-width-down/120?cb=20260219024009&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Silly",
+      "revision": 11415
+    },
+    {
       "id": "vsynthbr-2239",
       "pageId": 2239,
       "name": "Sonner EC",
@@ -2558,12 +3194,23 @@
       "id": "vsynthbr-2994",
       "pageId": 2994,
       "name": "Stephy Dennis",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "curitiba",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/f/f6/Stephy_Dennis.png/revision/latest/scale-to-width-down/132?cb=20241105182423&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/Stephy_Dennis",
       "revision": 8394
+    },
+    {
+      "id": "vsynthbr-1351",
+      "pageId": 1351,
+      "name": "Sugar Sweet",
+      "platform": "UTAU / OpenUtau / DeepVocal",
+      "origin": null,
+      "defaultCity": "geonames-1843564",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/9/9a/Sugar_Nova.png/revision/latest/scale-to-width-down/96?cb=20230906220435&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Sugar_Sweet",
+      "revision": 12065
     },
     {
       "id": "vsynthbr-1158",
@@ -2591,7 +3238,7 @@
       "id": "vsynthbr-2986",
       "pageId": 2986,
       "name": "Swagmin",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "manaus",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/0/03/Swagmin.png/revision/latest/scale-to-width-down/124?cb=20241104233924&path-prefix=pt-br",
@@ -2632,6 +3279,17 @@
       "revision": 8060
     },
     {
+      "id": "vsynthbr-1584",
+      "pageId": 1584,
+      "name": "Tealram",
+      "platform": "UTAU / OpenUtau",
+      "origin": null,
+      "defaultCity": "geonames-1835329",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/4/4f/Tealram.png/revision/latest/scale-to-width-down/76?cb=20230517201009&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Tealram",
+      "revision": 8391
+    },
+    {
       "id": "vsynthbr-2556",
       "pageId": 2556,
       "name": "Thalassa Ninjine",
@@ -2657,7 +3315,7 @@
       "id": "vsynthbr-3334",
       "pageId": 3334,
       "name": "Tomeine",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "fortaleza",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/0/01/Tomeine.png/revision/latest/scale-to-width-down/92?cb=20250329072856&path-prefix=pt-br",
@@ -2668,7 +3326,7 @@
       "id": "vsynthbr-573",
       "pageId": 573,
       "name": "TSUKINE",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "fortaleza",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/1/1a/TSUKINE_2026_por_yelo.png/revision/latest/scale-to-width-down/103?cb=20260109035247&path-prefix=pt-br",
@@ -2701,7 +3359,7 @@
       "id": "vsynthbr-3383",
       "pageId": 3383,
       "name": "Tuporã",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "vila-bela-da-santissima-trindade",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/6/6c/Comm_da_Candycake118.png/revision/latest/scale-to-width-down/66?cb=20260803230418&path-prefix=pt-br",
@@ -2712,7 +3370,7 @@
       "id": "vsynthbr-2193",
       "pageId": 2193,
       "name": "Tyvy",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau / NIAONiao",
       "origin": null,
       "defaultCity": "vila-bela-da-santissima-trindade",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/e/e3/Tyvy.png/revision/latest/scale-to-width-down/160?cb=20230702230148&path-prefix=pt-br",
@@ -2720,15 +3378,37 @@
       "revision": 8389
     },
     {
+      "id": "vsynthbr-1220",
+      "pageId": 1220,
+      "name": "Umidaji",
+      "platform": "Banco de voz",
+      "origin": null,
+      "defaultCity": "geonames-1835235",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/c/c7/Umidaji.png/revision/latest/scale-to-width-down/95?cb=20220925022144&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Umidaji",
+      "revision": 12329
+    },
+    {
       "id": "vsynthbr-3208",
       "pageId": 3208,
       "name": "Untitled",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "vila-bela-da-santissima-trindade",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/4/42/Untitled_Remake1.png/revision/latest/scale-to-width-down/119?cb=20260524223516&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/Untitled",
       "revision": 11780
+    },
+    {
+      "id": "vsynthbr-2831",
+      "pageId": 2831,
+      "name": "VALLERA",
+      "platform": "UTAU / OpenUtau",
+      "origin": null,
+      "defaultCity": "geonames-1841811",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/b/b2/Vallera_by_Gusta-p.png/revision/latest/scale-to-width-down/145?cb=20240615203924&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/VALLERA",
+      "revision": 8384
     },
     {
       "id": "vsynthbr-699",
@@ -2745,7 +3425,7 @@
       "id": "vsynthbr-1008",
       "pageId": 1008,
       "name": "VIICTOR",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau / DeepVocal / NIAONiao / RVC",
       "origin": null,
       "defaultCity": "vila-bela-da-santissima-trindade",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/a/a7/Viictorvccvbrapa.png/revision/latest/scale-to-width-down/49?cb=20260307210945&path-prefix=pt-br",
@@ -2800,12 +3480,23 @@
       "id": "vsynthbr-4115",
       "pageId": 4115,
       "name": "Wolfie",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "lisboa",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/8/8e/Wolfie.png/revision/latest/scale-to-width-down/160?cb=20260627221527&path-prefix=pt-br",
       "source": "https://vsynthbr.fandom.com/pt-br/wiki/Wolfie",
       "revision": 11922
+    },
+    {
+      "id": "vsynthbr-3862",
+      "pageId": 3862,
+      "name": "Xuan Xoxo",
+      "platform": "Banco de voz",
+      "origin": null,
+      "defaultCity": "geonames-1835553",
+      "image": "https://static.wikia.nocookie.net/vsynthbr/images/9/92/XoxoEdu.png/revision/latest/scale-to-width-down/120?cb=20260207214602&path-prefix=pt-br",
+      "source": "https://vsynthbr.fandom.com/pt-br/wiki/Xuan_Xoxo",
+      "revision": 11033
     },
     {
       "id": "vsynthbr-457",
@@ -2822,7 +3513,7 @@
       "id": "vsynthbr-2854",
       "pageId": 2854,
       "name": "Yohji",
-      "platform": "UTAU",
+      "platform": "UTAU / OpenUtau",
       "origin": null,
       "defaultCity": "buenos-aires",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/7/7c/Yohji_concept_2024_Mainfull.png/revision/latest/scale-to-width-down/106?cb=20260228051840&path-prefix=pt-br",
@@ -2844,7 +3535,7 @@
       "id": "vsynthbr-2892",
       "pageId": 2892,
       "name": "Yoshiro Nariyama",
-      "platform": "UTAU",
+      "platform": "UTAU / DeepVocal / NIAONiao",
       "origin": null,
       "defaultCity": "buenos-aires",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/e/e2/Yoshiro_Nariyama.png/revision/latest/scale-to-width-down/126?cb=20241011155929&path-prefix=pt-br",
@@ -2987,7 +3678,7 @@
       "id": "vsynthbr-711",
       "pageId": 711,
       "name": "YUURI",
-      "platform": "UTAU",
+      "platform": "UTAU / DeepVocal",
       "origin": null,
       "defaultCity": "nova-york",
       "image": "https://static.wikia.nocookie.net/vsynthbr/images/9/93/YUURI.png/revision/latest/scale-to-width-down/100?cb=20230807005150&path-prefix=pt-br",
